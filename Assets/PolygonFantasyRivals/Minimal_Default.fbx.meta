@@ -1,0 +1,3371 @@
+fileFormatVersion: 2
+guid: b70319da9b11c4f40b9c05de79e1f153
+timeCreated: 1538652210
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AbstractNavData-Default
+    100002: ball_l
+    100004: ball_l 1
+    100006: ball_l 10
+    100008: ball_l 11
+    100010: ball_l 12
+    100012: ball_l 13
+    100014: ball_l 14
+    100016: ball_l 15
+    100018: ball_l 16
+    100020: ball_l 17
+    100022: ball_l 18
+    100024: ball_l 19
+    100026: ball_l 2
+    100028: ball_l 20
+    100030: ball_l 21
+    100032: ball_l 22
+    100034: ball_l 23
+    100036: ball_l 3
+    100038: ball_l 4
+    100040: ball_l 5
+    100042: ball_l 6
+    100044: ball_l 7
+    100046: ball_l 8
+    100048: ball_l 9
+    100050: ball_r
+    100052: ball_r 1
+    100054: ball_r 10
+    100056: ball_r 11
+    100058: ball_r 12
+    100060: ball_r 13
+    100062: ball_r 14
+    100064: ball_r 15
+    100066: ball_r 16
+    100068: ball_r 17
+    100070: ball_r 18
+    100072: ball_r 19
+    100074: ball_r 2
+    100076: ball_r 20
+    100078: ball_r 21
+    100080: ball_r 22
+    100082: ball_r 23
+    100084: ball_r 3
+    100086: ball_r 4
+    100088: ball_r 5
+    100090: ball_r 6
+    100092: ball_r 7
+    100094: ball_r 8
+    100096: ball_r 9
+    100098: BP_Sky_Sphere_C_2
+    100100: calf_l
+    100102: calf_l 1
+    100104: calf_l 10
+    100106: calf_l 11
+    100108: calf_l 12
+    100110: calf_l 13
+    100112: calf_l 14
+    100114: calf_l 15
+    100116: calf_l 16
+    100118: calf_l 17
+    100120: calf_l 18
+    100122: calf_l 19
+    100124: calf_l 2
+    100126: calf_l 20
+    100128: calf_l 21
+    100130: calf_l 22
+    100132: calf_l 23
+    100134: calf_l 3
+    100136: calf_l 4
+    100138: calf_l 5
+    100140: calf_l 6
+    100142: calf_l 7
+    100144: calf_l 8
+    100146: calf_l 9
+    100148: calf_r
+    100150: calf_r 1
+    100152: calf_r 10
+    100154: calf_r 11
+    100156: calf_r 12
+    100158: calf_r 13
+    100160: calf_r 14
+    100162: calf_r 15
+    100164: calf_r 16
+    100166: calf_r 17
+    100168: calf_r 18
+    100170: calf_r 19
+    100172: calf_r 2
+    100174: calf_r 20
+    100176: calf_r 21
+    100178: calf_r 22
+    100180: calf_r 23
+    100182: calf_r 3
+    100184: calf_r 4
+    100186: calf_r 5
+    100188: calf_r 6
+    100190: calf_r 7
+    100192: calf_r 8
+    100194: calf_r 9
+    100196: clavicle_l
+    100198: clavicle_l 1
+    100200: clavicle_l 10
+    100202: clavicle_l 11
+    100204: clavicle_l 12
+    100206: clavicle_l 13
+    100208: clavicle_l 14
+    100210: clavicle_l 15
+    100212: clavicle_l 16
+    100214: clavicle_l 17
+    100216: clavicle_l 18
+    100218: clavicle_l 19
+    100220: clavicle_l 2
+    100222: clavicle_l 20
+    100224: clavicle_l 21
+    100226: clavicle_l 22
+    100228: clavicle_l 23
+    100230: clavicle_l 3
+    100232: clavicle_l 4
+    100234: clavicle_l 5
+    100236: clavicle_l 6
+    100238: clavicle_l 7
+    100240: clavicle_l 8
+    100242: clavicle_l 9
+    100244: clavicle_r
+    100246: clavicle_r 1
+    100248: clavicle_r 10
+    100250: clavicle_r 11
+    100252: clavicle_r 12
+    100254: clavicle_r 13
+    100256: clavicle_r 14
+    100258: clavicle_r 15
+    100260: clavicle_r 16
+    100262: clavicle_r 17
+    100264: clavicle_r 18
+    100266: clavicle_r 19
+    100268: clavicle_r 2
+    100270: clavicle_r 20
+    100272: clavicle_r 21
+    100274: clavicle_r 22
+    100276: clavicle_r 23
+    100278: clavicle_r 3
+    100280: clavicle_r 4
+    100282: clavicle_r 5
+    100284: clavicle_r 6
+    100286: clavicle_r 7
+    100288: clavicle_r 8
+    100290: clavicle_r 9
+    100292: eyebrows
+    100294: eyebrows 1
+    100296: eyebrows 10
+    100298: eyebrows 11
+    100300: eyebrows 12
+    100302: eyebrows 13
+    100304: eyebrows 14
+    100306: eyebrows 15
+    100308: eyebrows 16
+    100310: eyebrows 17
+    100312: eyebrows 18
+    100314: eyebrows 19
+    100316: eyebrows 2
+    100318: eyebrows 20
+    100320: eyebrows 21
+    100322: eyebrows 22
+    100324: eyebrows 23
+    100326: eyebrows 3
+    100328: eyebrows 4
+    100330: eyebrows 5
+    100332: eyebrows 6
+    100334: eyebrows 7
+    100336: eyebrows 8
+    100338: eyebrows 9
+    100340: eyes
+    100342: eyes 1
+    100344: eyes 10
+    100346: eyes 11
+    100348: eyes 12
+    100350: eyes 13
+    100352: eyes 14
+    100354: eyes 15
+    100356: eyes 16
+    100358: eyes 17
+    100360: eyes 18
+    100362: eyes 19
+    100364: eyes 2
+    100366: eyes 20
+    100368: eyes 21
+    100370: eyes 22
+    100372: eyes 23
+    100374: eyes 3
+    100376: eyes 4
+    100378: eyes 5
+    100380: eyes 6
+    100382: eyes 7
+    100384: eyes 8
+    100386: eyes 9
+    100388: finger_01_l
+    100390: finger_01_l 1
+    100392: finger_01_l 10
+    100394: finger_01_l 11
+    100396: finger_01_l 12
+    100398: finger_01_l 13
+    100400: finger_01_l 14
+    100402: finger_01_l 15
+    100404: finger_01_l 16
+    100406: finger_01_l 17
+    100408: finger_01_l 18
+    100410: finger_01_l 19
+    100412: finger_01_l 2
+    100414: finger_01_l 20
+    100416: finger_01_l 21
+    100418: finger_01_l 22
+    100420: finger_01_l 23
+    100422: finger_01_l 3
+    100424: finger_01_l 4
+    100426: finger_01_l 5
+    100428: finger_01_l 6
+    100430: finger_01_l 7
+    100432: finger_01_l 8
+    100434: finger_01_l 9
+    100436: finger_01_r
+    100438: finger_01_r 1
+    100440: finger_01_r 10
+    100442: finger_01_r 11
+    100444: finger_01_r 12
+    100446: finger_01_r 13
+    100448: finger_01_r 14
+    100450: finger_01_r 15
+    100452: finger_01_r 16
+    100454: finger_01_r 17
+    100456: finger_01_r 18
+    100458: finger_01_r 19
+    100460: finger_01_r 2
+    100462: finger_01_r 20
+    100464: finger_01_r 21
+    100466: finger_01_r 22
+    100468: finger_01_r 23
+    100470: finger_01_r 3
+    100472: finger_01_r 4
+    100474: finger_01_r 5
+    100476: finger_01_r 6
+    100478: finger_01_r 7
+    100480: finger_01_r 8
+    100482: finger_01_r 9
+    100484: finger_02_l
+    100486: finger_02_l 1
+    100488: finger_02_l 10
+    100490: finger_02_l 11
+    100492: finger_02_l 12
+    100494: finger_02_l 13
+    100496: finger_02_l 14
+    100498: finger_02_l 15
+    100500: finger_02_l 16
+    100502: finger_02_l 17
+    100504: finger_02_l 18
+    100506: finger_02_l 19
+    100508: finger_02_l 2
+    100510: finger_02_l 20
+    100512: finger_02_l 21
+    100514: finger_02_l 22
+    100516: finger_02_l 23
+    100518: finger_02_l 3
+    100520: finger_02_l 4
+    100522: finger_02_l 5
+    100524: finger_02_l 6
+    100526: finger_02_l 7
+    100528: finger_02_l 8
+    100530: finger_02_l 9
+    100532: finger_02_r
+    100534: finger_02_r 1
+    100536: finger_02_r 10
+    100538: finger_02_r 11
+    100540: finger_02_r 12
+    100542: finger_02_r 13
+    100544: finger_02_r 14
+    100546: finger_02_r 15
+    100548: finger_02_r 16
+    100550: finger_02_r 17
+    100552: finger_02_r 18
+    100554: finger_02_r 19
+    100556: finger_02_r 2
+    100558: finger_02_r 20
+    100560: finger_02_r 21
+    100562: finger_02_r 22
+    100564: finger_02_r 23
+    100566: finger_02_r 3
+    100568: finger_02_r 4
+    100570: finger_02_r 5
+    100572: finger_02_r 6
+    100574: finger_02_r 7
+    100576: finger_02_r 8
+    100578: finger_02_r 9
+    100580: finger_03_l
+    100582: finger_03_l 1
+    100584: finger_03_l 10
+    100586: finger_03_l 11
+    100588: finger_03_l 12
+    100590: finger_03_l 13
+    100592: finger_03_l 14
+    100594: finger_03_l 15
+    100596: finger_03_l 16
+    100598: finger_03_l 17
+    100600: finger_03_l 18
+    100602: finger_03_l 19
+    100604: finger_03_l 2
+    100606: finger_03_l 20
+    100608: finger_03_l 21
+    100610: finger_03_l 22
+    100612: finger_03_l 23
+    100614: finger_03_l 3
+    100616: finger_03_l 4
+    100618: finger_03_l 5
+    100620: finger_03_l 6
+    100622: finger_03_l 7
+    100624: finger_03_l 8
+    100626: finger_03_l 9
+    100628: finger_03_r
+    100630: finger_03_r 1
+    100632: finger_03_r 10
+    100634: finger_03_r 11
+    100636: finger_03_r 12
+    100638: finger_03_r 13
+    100640: finger_03_r 14
+    100642: finger_03_r 15
+    100644: finger_03_r 16
+    100646: finger_03_r 17
+    100648: finger_03_r 18
+    100650: finger_03_r 19
+    100652: finger_03_r 2
+    100654: finger_03_r 20
+    100656: finger_03_r 21
+    100658: finger_03_r 22
+    100660: finger_03_r 23
+    100662: finger_03_r 3
+    100664: finger_03_r 4
+    100666: finger_03_r 5
+    100668: finger_03_r 6
+    100670: finger_03_r 7
+    100672: finger_03_r 8
+    100674: finger_03_r 9
+    100676: finger_04_l
+    100678: finger_04_l 1
+    100680: finger_04_l 10
+    100682: finger_04_l 11
+    100684: finger_04_l 12
+    100686: finger_04_l 13
+    100688: finger_04_l 14
+    100690: finger_04_l 15
+    100692: finger_04_l 16
+    100694: finger_04_l 17
+    100696: finger_04_l 18
+    100698: finger_04_l 19
+    100700: finger_04_l 2
+    100702: finger_04_l 20
+    100704: finger_04_l 21
+    100706: finger_04_l 22
+    100708: finger_04_l 23
+    100710: finger_04_l 3
+    100712: finger_04_l 4
+    100714: finger_04_l 5
+    100716: finger_04_l 6
+    100718: finger_04_l 7
+    100720: finger_04_l 8
+    100722: finger_04_l 9
+    100724: finger_04_r
+    100726: finger_04_r 1
+    100728: finger_04_r 10
+    100730: finger_04_r 11
+    100732: finger_04_r 12
+    100734: finger_04_r 13
+    100736: finger_04_r 14
+    100738: finger_04_r 15
+    100740: finger_04_r 16
+    100742: finger_04_r 17
+    100744: finger_04_r 18
+    100746: finger_04_r 19
+    100748: finger_04_r 2
+    100750: finger_04_r 20
+    100752: finger_04_r 21
+    100754: finger_04_r 22
+    100756: finger_04_r 23
+    100758: finger_04_r 3
+    100760: finger_04_r 4
+    100762: finger_04_r 5
+    100764: finger_04_r 6
+    100766: finger_04_r 7
+    100768: finger_04_r 8
+    100770: finger_04_r 9
+    100772: Foot_L
+    100774: Foot_L 1
+    100776: Foot_L 10
+    100778: Foot_L 11
+    100780: Foot_L 12
+    100782: Foot_L 13
+    100784: Foot_L 14
+    100786: Foot_L 15
+    100788: Foot_L 16
+    100790: Foot_L 17
+    100792: Foot_L 18
+    100794: Foot_L 19
+    100796: Foot_L 2
+    100798: Foot_L 20
+    100800: Foot_L 21
+    100802: Foot_L 22
+    100804: Foot_L 23
+    100806: Foot_L 3
+    100808: Foot_L 4
+    100810: Foot_L 5
+    100812: Foot_L 6
+    100814: Foot_L 7
+    100816: Foot_L 8
+    100818: Foot_L 9
+    100820: Foot_R
+    100822: Foot_R 1
+    100824: Foot_R 10
+    100826: Foot_R 11
+    100828: Foot_R 12
+    100830: Foot_R 13
+    100832: Foot_R 14
+    100834: Foot_R 15
+    100836: Foot_R 16
+    100838: Foot_R 17
+    100840: Foot_R 18
+    100842: Foot_R 19
+    100844: Foot_R 2
+    100846: Foot_R 20
+    100848: Foot_R 21
+    100850: Foot_R 22
+    100852: Foot_R 23
+    100854: Foot_R 3
+    100856: Foot_R 4
+    100858: Foot_R 5
+    100860: Foot_R 6
+    100862: Foot_R 7
+    100864: Foot_R 8
+    100866: Foot_R 9
+    100868: Hand_L
+    100870: Hand_L 1
+    100872: Hand_L 10
+    100874: Hand_L 11
+    100876: Hand_L 12
+    100878: Hand_L 13
+    100880: Hand_L 14
+    100882: Hand_L 15
+    100884: Hand_L 16
+    100886: Hand_L 17
+    100888: Hand_L 18
+    100890: Hand_L 19
+    100892: Hand_L 2
+    100894: Hand_L 20
+    100896: Hand_L 21
+    100898: Hand_L 22
+    100900: Hand_L 23
+    100902: Hand_L 3
+    100904: Hand_L 4
+    100906: Hand_L 5
+    100908: Hand_L 6
+    100910: Hand_L 7
+    100912: Hand_L 8
+    100914: Hand_L 9
+    100916: Hand_R
+    100918: Hand_R 1
+    100920: Hand_R 10
+    100922: Hand_R 11
+    100924: Hand_R 12
+    100926: Hand_R 13
+    100928: Hand_R 14
+    100930: Hand_R 15
+    100932: Hand_R 16
+    100934: Hand_R 17
+    100936: Hand_R 18
+    100938: Hand_R 19
+    100940: Hand_R 2
+    100942: Hand_R 20
+    100944: Hand_R 21
+    100946: Hand_R 22
+    100948: Hand_R 23
+    100950: Hand_R 3
+    100952: Hand_R 4
+    100954: Hand_R 5
+    100956: Hand_R 6
+    100958: Hand_R 7
+    100960: Hand_R 8
+    100962: Hand_R 9
+    100964: head
+    100966: head 1
+    100968: head 10
+    100970: head 11
+    100972: head 12
+    100974: head 13
+    100976: head 14
+    100978: head 15
+    100980: head 16
+    100982: head 17
+    100984: head 18
+    100986: head 19
+    100988: head 2
+    100990: head 20
+    100992: head 21
+    100994: head 22
+    100996: head 23
+    100998: head 3
+    101000: head 4
+    101002: head 5
+    101004: head 6
+    101006: head 7
+    101008: head 8
+    101010: head 9
+    101012: ik_foot_l
+    101014: ik_foot_l 1
+    101016: ik_foot_l 10
+    101018: ik_foot_l 11
+    101020: ik_foot_l 12
+    101022: ik_foot_l 13
+    101024: ik_foot_l 14
+    101026: ik_foot_l 15
+    101028: ik_foot_l 16
+    101030: ik_foot_l 17
+    101032: ik_foot_l 18
+    101034: ik_foot_l 19
+    101036: ik_foot_l 2
+    101038: ik_foot_l 20
+    101040: ik_foot_l 21
+    101042: ik_foot_l 22
+    101044: ik_foot_l 23
+    101046: ik_foot_l 3
+    101048: ik_foot_l 4
+    101050: ik_foot_l 5
+    101052: ik_foot_l 6
+    101054: ik_foot_l 7
+    101056: ik_foot_l 8
+    101058: ik_foot_l 9
+    101060: ik_foot_r
+    101062: ik_foot_r 1
+    101064: ik_foot_r 10
+    101066: ik_foot_r 11
+    101068: ik_foot_r 12
+    101070: ik_foot_r 13
+    101072: ik_foot_r 14
+    101074: ik_foot_r 15
+    101076: ik_foot_r 16
+    101078: ik_foot_r 17
+    101080: ik_foot_r 18
+    101082: ik_foot_r 19
+    101084: ik_foot_r 2
+    101086: ik_foot_r 20
+    101088: ik_foot_r 21
+    101090: ik_foot_r 22
+    101092: ik_foot_r 23
+    101094: ik_foot_r 3
+    101096: ik_foot_r 4
+    101098: ik_foot_r 5
+    101100: ik_foot_r 6
+    101102: ik_foot_r 7
+    101104: ik_foot_r 8
+    101106: ik_foot_r 9
+    101108: ik_foot_root
+    101110: ik_foot_root 1
+    101112: ik_foot_root 10
+    101114: ik_foot_root 11
+    101116: ik_foot_root 12
+    101118: ik_foot_root 13
+    101120: ik_foot_root 14
+    101122: ik_foot_root 15
+    101124: ik_foot_root 16
+    101126: ik_foot_root 17
+    101128: ik_foot_root 18
+    101130: ik_foot_root 19
+    101132: ik_foot_root 2
+    101134: ik_foot_root 20
+    101136: ik_foot_root 21
+    101138: ik_foot_root 22
+    101140: ik_foot_root 23
+    101142: ik_foot_root 3
+    101144: ik_foot_root 4
+    101146: ik_foot_root 5
+    101148: ik_foot_root 6
+    101150: ik_foot_root 7
+    101152: ik_foot_root 8
+    101154: ik_foot_root 9
+    101156: ik_hand_gun
+    101158: ik_hand_gun 1
+    101160: ik_hand_gun 10
+    101162: ik_hand_gun 11
+    101164: ik_hand_gun 12
+    101166: ik_hand_gun 13
+    101168: ik_hand_gun 14
+    101170: ik_hand_gun 15
+    101172: ik_hand_gun 16
+    101174: ik_hand_gun 17
+    101176: ik_hand_gun 18
+    101178: ik_hand_gun 19
+    101180: ik_hand_gun 2
+    101182: ik_hand_gun 20
+    101184: ik_hand_gun 21
+    101186: ik_hand_gun 22
+    101188: ik_hand_gun 23
+    101190: ik_hand_gun 3
+    101192: ik_hand_gun 4
+    101194: ik_hand_gun 5
+    101196: ik_hand_gun 6
+    101198: ik_hand_gun 7
+    101200: ik_hand_gun 8
+    101202: ik_hand_gun 9
+    101204: ik_hand_l
+    101206: ik_hand_l 1
+    101208: ik_hand_l 10
+    101210: ik_hand_l 11
+    101212: ik_hand_l 12
+    101214: ik_hand_l 13
+    101216: ik_hand_l 14
+    101218: ik_hand_l 15
+    101220: ik_hand_l 16
+    101222: ik_hand_l 17
+    101224: ik_hand_l 18
+    101226: ik_hand_l 19
+    101228: ik_hand_l 2
+    101230: ik_hand_l 20
+    101232: ik_hand_l 21
+    101234: ik_hand_l 22
+    101236: ik_hand_l 23
+    101238: ik_hand_l 3
+    101240: ik_hand_l 4
+    101242: ik_hand_l 5
+    101244: ik_hand_l 6
+    101246: ik_hand_l 7
+    101248: ik_hand_l 8
+    101250: ik_hand_l 9
+    101252: ik_hand_r
+    101254: ik_hand_r 1
+    101256: ik_hand_r 10
+    101258: ik_hand_r 11
+    101260: ik_hand_r 12
+    101262: ik_hand_r 13
+    101264: ik_hand_r 14
+    101266: ik_hand_r 15
+    101268: ik_hand_r 16
+    101270: ik_hand_r 17
+    101272: ik_hand_r 18
+    101274: ik_hand_r 19
+    101276: ik_hand_r 2
+    101278: ik_hand_r 20
+    101280: ik_hand_r 21
+    101282: ik_hand_r 22
+    101284: ik_hand_r 23
+    101286: ik_hand_r 3
+    101288: ik_hand_r 4
+    101290: ik_hand_r 5
+    101292: ik_hand_r 6
+    101294: ik_hand_r 7
+    101296: ik_hand_r 8
+    101298: ik_hand_r 9
+    101300: ik_hand_root
+    101302: ik_hand_root 1
+    101304: ik_hand_root 10
+    101306: ik_hand_root 11
+    101308: ik_hand_root 12
+    101310: ik_hand_root 13
+    101312: ik_hand_root 14
+    101314: ik_hand_root 15
+    101316: ik_hand_root 16
+    101318: ik_hand_root 17
+    101320: ik_hand_root 18
+    101322: ik_hand_root 19
+    101324: ik_hand_root 2
+    101326: ik_hand_root 20
+    101328: ik_hand_root 21
+    101330: ik_hand_root 22
+    101332: ik_hand_root 23
+    101334: ik_hand_root 3
+    101336: ik_hand_root 4
+    101338: ik_hand_root 5
+    101340: ik_hand_root 6
+    101342: ik_hand_root 7
+    101344: ik_hand_root 8
+    101346: ik_hand_root 9
+    101348: indexFinger_01_l
+    101350: indexFinger_01_l 1
+    101352: indexFinger_01_l 10
+    101354: indexFinger_01_l 11
+    101356: indexFinger_01_l 12
+    101358: indexFinger_01_l 13
+    101360: indexFinger_01_l 14
+    101362: indexFinger_01_l 15
+    101364: indexFinger_01_l 16
+    101366: indexFinger_01_l 17
+    101368: indexFinger_01_l 18
+    101370: indexFinger_01_l 19
+    101372: indexFinger_01_l 2
+    101374: indexFinger_01_l 20
+    101376: indexFinger_01_l 21
+    101378: indexFinger_01_l 22
+    101380: indexFinger_01_l 23
+    101382: indexFinger_01_l 3
+    101384: indexFinger_01_l 4
+    101386: indexFinger_01_l 5
+    101388: indexFinger_01_l 6
+    101390: indexFinger_01_l 7
+    101392: indexFinger_01_l 8
+    101394: indexFinger_01_l 9
+    101396: indexFinger_01_r
+    101398: indexFinger_01_r 1
+    101400: indexFinger_01_r 10
+    101402: indexFinger_01_r 11
+    101404: indexFinger_01_r 12
+    101406: indexFinger_01_r 13
+    101408: indexFinger_01_r 14
+    101410: indexFinger_01_r 15
+    101412: indexFinger_01_r 16
+    101414: indexFinger_01_r 17
+    101416: indexFinger_01_r 18
+    101418: indexFinger_01_r 19
+    101420: indexFinger_01_r 2
+    101422: indexFinger_01_r 20
+    101424: indexFinger_01_r 21
+    101426: indexFinger_01_r 22
+    101428: indexFinger_01_r 23
+    101430: indexFinger_01_r 3
+    101432: indexFinger_01_r 4
+    101434: indexFinger_01_r 5
+    101436: indexFinger_01_r 6
+    101438: indexFinger_01_r 7
+    101440: indexFinger_01_r 8
+    101442: indexFinger_01_r 9
+    101444: indexFinger_02_l
+    101446: indexFinger_02_l 1
+    101448: indexFinger_02_l 10
+    101450: indexFinger_02_l 11
+    101452: indexFinger_02_l 12
+    101454: indexFinger_02_l 13
+    101456: indexFinger_02_l 14
+    101458: indexFinger_02_l 15
+    101460: indexFinger_02_l 16
+    101462: indexFinger_02_l 17
+    101464: indexFinger_02_l 18
+    101466: indexFinger_02_l 19
+    101468: indexFinger_02_l 2
+    101470: indexFinger_02_l 20
+    101472: indexFinger_02_l 21
+    101474: indexFinger_02_l 22
+    101476: indexFinger_02_l 23
+    101478: indexFinger_02_l 3
+    101480: indexFinger_02_l 4
+    101482: indexFinger_02_l 5
+    101484: indexFinger_02_l 6
+    101486: indexFinger_02_l 7
+    101488: indexFinger_02_l 8
+    101490: indexFinger_02_l 9
+    101492: indexFinger_02_r
+    101494: indexFinger_02_r 1
+    101496: indexFinger_02_r 10
+    101498: indexFinger_02_r 11
+    101500: indexFinger_02_r 12
+    101502: indexFinger_02_r 13
+    101504: indexFinger_02_r 14
+    101506: indexFinger_02_r 15
+    101508: indexFinger_02_r 16
+    101510: indexFinger_02_r 17
+    101512: indexFinger_02_r 18
+    101514: indexFinger_02_r 19
+    101516: indexFinger_02_r 2
+    101518: indexFinger_02_r 20
+    101520: indexFinger_02_r 21
+    101522: indexFinger_02_r 22
+    101524: indexFinger_02_r 23
+    101526: indexFinger_02_r 3
+    101528: indexFinger_02_r 4
+    101530: indexFinger_02_r 5
+    101532: indexFinger_02_r 6
+    101534: indexFinger_02_r 7
+    101536: indexFinger_02_r 8
+    101538: indexFinger_02_r 9
+    101540: indexFinger_03_l
+    101542: indexFinger_03_l 1
+    101544: indexFinger_03_l 10
+    101546: indexFinger_03_l 11
+    101548: indexFinger_03_l 12
+    101550: indexFinger_03_l 13
+    101552: indexFinger_03_l 14
+    101554: indexFinger_03_l 15
+    101556: indexFinger_03_l 16
+    101558: indexFinger_03_l 17
+    101560: indexFinger_03_l 18
+    101562: indexFinger_03_l 19
+    101564: indexFinger_03_l 2
+    101566: indexFinger_03_l 20
+    101568: indexFinger_03_l 21
+    101570: indexFinger_03_l 22
+    101572: indexFinger_03_l 23
+    101574: indexFinger_03_l 3
+    101576: indexFinger_03_l 4
+    101578: indexFinger_03_l 5
+    101580: indexFinger_03_l 6
+    101582: indexFinger_03_l 7
+    101584: indexFinger_03_l 8
+    101586: indexFinger_03_l 9
+    101588: indexFinger_03_r
+    101590: indexFinger_03_r 1
+    101592: indexFinger_03_r 10
+    101594: indexFinger_03_r 11
+    101596: indexFinger_03_r 12
+    101598: indexFinger_03_r 13
+    101600: indexFinger_03_r 14
+    101602: indexFinger_03_r 15
+    101604: indexFinger_03_r 16
+    101606: indexFinger_03_r 17
+    101608: indexFinger_03_r 18
+    101610: indexFinger_03_r 19
+    101612: indexFinger_03_r 2
+    101614: indexFinger_03_r 20
+    101616: indexFinger_03_r 21
+    101618: indexFinger_03_r 22
+    101620: indexFinger_03_r 23
+    101622: indexFinger_03_r 3
+    101624: indexFinger_03_r 4
+    101626: indexFinger_03_r 5
+    101628: indexFinger_03_r 6
+    101630: indexFinger_03_r 7
+    101632: indexFinger_03_r 8
+    101634: indexFinger_03_r 9
+    101636: indexFinger_04_l
+    101638: indexFinger_04_l 1
+    101640: indexFinger_04_l 10
+    101642: indexFinger_04_l 11
+    101644: indexFinger_04_l 12
+    101646: indexFinger_04_l 13
+    101648: indexFinger_04_l 14
+    101650: indexFinger_04_l 15
+    101652: indexFinger_04_l 16
+    101654: indexFinger_04_l 17
+    101656: indexFinger_04_l 18
+    101658: indexFinger_04_l 19
+    101660: indexFinger_04_l 2
+    101662: indexFinger_04_l 20
+    101664: indexFinger_04_l 21
+    101666: indexFinger_04_l 22
+    101668: indexFinger_04_l 23
+    101670: indexFinger_04_l 3
+    101672: indexFinger_04_l 4
+    101674: indexFinger_04_l 5
+    101676: indexFinger_04_l 6
+    101678: indexFinger_04_l 7
+    101680: indexFinger_04_l 8
+    101682: indexFinger_04_l 9
+    101684: indexFinger_04_r
+    101686: indexFinger_04_r 1
+    101688: indexFinger_04_r 10
+    101690: indexFinger_04_r 11
+    101692: indexFinger_04_r 12
+    101694: indexFinger_04_r 13
+    101696: indexFinger_04_r 14
+    101698: indexFinger_04_r 15
+    101700: indexFinger_04_r 16
+    101702: indexFinger_04_r 17
+    101704: indexFinger_04_r 18
+    101706: indexFinger_04_r 19
+    101708: indexFinger_04_r 2
+    101710: indexFinger_04_r 20
+    101712: indexFinger_04_r 21
+    101714: indexFinger_04_r 22
+    101716: indexFinger_04_r 23
+    101718: indexFinger_04_r 3
+    101720: indexFinger_04_r 4
+    101722: indexFinger_04_r 5
+    101724: indexFinger_04_r 6
+    101726: indexFinger_04_r 7
+    101728: indexFinger_04_r 8
+    101730: indexFinger_04_r 9
+    101732: InstancedFoliageActor_0
+    101734: LightSource
+    101736: lowerarm_l
+    101738: lowerarm_l 1
+    101740: lowerarm_l 10
+    101742: lowerarm_l 11
+    101744: lowerarm_l 12
+    101746: lowerarm_l 13
+    101748: lowerarm_l 14
+    101750: lowerarm_l 15
+    101752: lowerarm_l 16
+    101754: lowerarm_l 17
+    101756: lowerarm_l 18
+    101758: lowerarm_l 19
+    101760: lowerarm_l 2
+    101762: lowerarm_l 20
+    101764: lowerarm_l 21
+    101766: lowerarm_l 22
+    101768: lowerarm_l 23
+    101770: lowerarm_l 3
+    101772: lowerarm_l 4
+    101774: lowerarm_l 5
+    101776: lowerarm_l 6
+    101778: lowerarm_l 7
+    101780: lowerarm_l 8
+    101782: lowerarm_l 9
+    101784: lowerarm_r
+    101786: lowerarm_r 1
+    101788: lowerarm_r 10
+    101790: lowerarm_r 11
+    101792: lowerarm_r 12
+    101794: lowerarm_r 13
+    101796: lowerarm_r 14
+    101798: lowerarm_r 15
+    101800: lowerarm_r 16
+    101802: lowerarm_r 17
+    101804: lowerarm_r 18
+    101806: lowerarm_r 19
+    101808: lowerarm_r 2
+    101810: lowerarm_r 20
+    101812: lowerarm_r 21
+    101814: lowerarm_r 22
+    101816: lowerarm_r 23
+    101818: lowerarm_r 3
+    101820: lowerarm_r 4
+    101822: lowerarm_r 5
+    101824: lowerarm_r 6
+    101826: lowerarm_r 7
+    101828: lowerarm_r 8
+    101830: lowerarm_r 9
+    101832: //RootNode
+    101834: Minimal_Default_C_0
+    101836: neck_01
+    101838: neck_01 1
+    101840: neck_01 10
+    101842: neck_01 11
+    101844: neck_01 12
+    101846: neck_01 13
+    101848: neck_01 14
+    101850: neck_01 15
+    101852: neck_01 16
+    101854: neck_01 17
+    101856: neck_01 18
+    101858: neck_01 19
+    101860: neck_01 2
+    101862: neck_01 20
+    101864: neck_01 21
+    101866: neck_01 22
+    101868: neck_01 23
+    101870: neck_01 3
+    101872: neck_01 4
+    101874: neck_01 5
+    101876: neck_01 6
+    101878: neck_01 7
+    101880: neck_01 8
+    101882: neck_01 9
+    101884: Pelvis
+    101886: Pelvis 1
+    101888: Pelvis 10
+    101890: Pelvis 11
+    101892: Pelvis 12
+    101894: Pelvis 13
+    101896: Pelvis 14
+    101898: Pelvis 15
+    101900: Pelvis 16
+    101902: Pelvis 17
+    101904: Pelvis 18
+    101906: Pelvis 19
+    101908: Pelvis 2
+    101910: Pelvis 20
+    101912: Pelvis 21
+    101914: Pelvis 22
+    101916: Pelvis 23
+    101918: Pelvis 3
+    101920: Pelvis 4
+    101922: Pelvis 5
+    101924: Pelvis 6
+    101926: Pelvis 7
+    101928: Pelvis 8
+    101930: Pelvis 9
+    101932: Root
+    101934: Root 1
+    101936: Root 10
+    101938: Root 11
+    101940: Root 12
+    101942: Root 13
+    101944: Root 14
+    101946: Root 15
+    101948: Root 16
+    101950: Root 17
+    101952: Root 18
+    101954: Root 19
+    101956: Root 2
+    101958: Root 20
+    101960: Root 21
+    101962: Root 22
+    101964: Root 23
+    101966: Root 3
+    101968: Root 4
+    101970: Root 5
+    101972: Root 6
+    101974: Root 7
+    101976: Root 8
+    101978: Root 9
+    101980: SK_BR_Character_BarbarianGiant_01_59
+    101982: SK_BR_Character_Big_Ork_01_61
+    101984: SK_BR_Character_Dwarf_01_63
+    101986: SK_BR_Character_ElementalGolem_01_65
+    101988: SK_BR_Character_FortGolem_01_67
+    101990: SK_BR_Character_MechanicalGolem_01_69
+    101992: SK_BR_Character_MutantGuy_01_71
+    101994: SK_BR_Character_PhysicsAsset_73
+    101996: SK_BR_Character_Pig_Butcher_01_75
+    101998: SK_BR_Character_RedDemon_01_77
+    102000: SK_BR_Character_Skeleton_79
+    102002: SK_BR_Character_Slayer_01_81
+    102004: SK_BR_Character_Troll_01_83
+    102006: SK_Character_Ancient_Warrior_01_85
+    102008: SK_Character_AncientQueen_01_87
+    102010: SK_Character_DarkElf_01_89
+    102012: SK_Character_EvilGod_01_91
+    102014: SK_Character_ForestGuardian_01_93
+    102016: SK_Character_ForestWitch_01_95
+    102018: SK_Character_Medusa_01_97
+    102020: SK_Character_Mystic_01_99
+    102022: SK_Character_PhysicsAsset_101
+    102024: SK_Character_Skeleton_103
+    102026: SK_Character_SpiritDemon_105
+    102028: SkeletalMeshComponent0
+    102030: SkeletalMeshComponent0 1
+    102032: SkeletalMeshComponent0 10
+    102034: SkeletalMeshComponent0 11
+    102036: SkeletalMeshComponent0 12
+    102038: SkeletalMeshComponent0 13
+    102040: SkeletalMeshComponent0 14
+    102042: SkeletalMeshComponent0 15
+    102044: SkeletalMeshComponent0 16
+    102046: SkeletalMeshComponent0 17
+    102048: SkeletalMeshComponent0 18
+    102050: SkeletalMeshComponent0 19
+    102052: SkeletalMeshComponent0 2
+    102054: SkeletalMeshComponent0 20
+    102056: SkeletalMeshComponent0 21
+    102058: SkeletalMeshComponent0 22
+    102060: SkeletalMeshComponent0 23
+    102062: SkeletalMeshComponent0 3
+    102064: SkeletalMeshComponent0 4
+    102066: SkeletalMeshComponent0 5
+    102068: SkeletalMeshComponent0 6
+    102070: SkeletalMeshComponent0 7
+    102072: SkeletalMeshComponent0 8
+    102074: SkeletalMeshComponent0 9
+    102076: SkyLight_1
+    102078: SM_Base_Dirt_01_136
+    102080: SM_Base_Dungeon_01_131
+    102082: SM_Base_Grass_01_128
+    102084: SM_Base_Mechanical_01_125
+    102086: SM_Base_Rock_01_120
+    102088: SM_Prop_Backharness_01_113
+    102090: SM_Prop_Backharness_02_110
+    102092: SM_Prop_Backharness_03_68
+    102094: SM_Prop_Bones_01_71
+    102096: SM_Prop_Mushroom_01_101
+    102098: SM_Prop_Mushroom_02_104
+    102100: SM_Prop_Pouch_01_74
+    102102: SM_Prop_Pouch_02_77
+    102104: SM_Prop_Pouch_03_80
+    102106: SM_Prop_Skull_01_83
+    102108: SM_Prop_Tree_01_86
+    102110: SM_Prop_Tree_02_89
+    102112: SM_Prop_Troll_Helmet_01_92
+    102114: SM_Runes_Inner_95
+    102116: SM_Runes_Outer_98
+    102118: SM_Wep_AncientQueen_01_23
+    102120: SM_Wep_AncientWarrior_01_25
+    102122: SM_Wep_BarbarianGiant_01_27
+    102124: SM_Wep_BigOrk_01_29
+    102126: SM_Wep_DarkElf_01_31
+    102128: SM_Wep_Dwarf_01_33
+    102130: SM_Wep_ElementalGolem_01_35
+    102132: SM_Wep_EvilGod_01_37
+    102134: SM_Wep_ForestGuardian_01_39
+    102136: SM_Wep_ForestWitch_01_41
+    102138: SM_Wep_FortGolem_01_43
+    102140: SM_Wep_MechanicalGolem_01_45
+    102142: SM_Wep_MechanicalGolem_02_47
+    102144: SM_Wep_MechanicalGolem_02_Blade_01_49
+    102146: SM_Wep_Medusa_01_51
+    102148: SM_Wep_MutantGuy_01_53
+    102150: SM_Wep_Mystic_01_55
+    102152: SM_Wep_PigButcher_01_57
+    102154: SM_Wep_RedDemon_01_59
+    102156: SM_Wep_Slayer_01_61
+    102158: SM_Wep_SpiritDemon_01_63
+    102160: SM_Wep_Troll_01_65
+    102162: SphereReflectionCapture_1
+    102164: spine_01
+    102166: spine_01 1
+    102168: spine_01 10
+    102170: spine_01 11
+    102172: spine_01 12
+    102174: spine_01 13
+    102176: spine_01 14
+    102178: spine_01 15
+    102180: spine_01 16
+    102182: spine_01 17
+    102184: spine_01 18
+    102186: spine_01 19
+    102188: spine_01 2
+    102190: spine_01 20
+    102192: spine_01 21
+    102194: spine_01 22
+    102196: spine_01 23
+    102198: spine_01 3
+    102200: spine_01 4
+    102202: spine_01 5
+    102204: spine_01 6
+    102206: spine_01 7
+    102208: spine_01 8
+    102210: spine_01 9
+    102212: spine_02
+    102214: spine_02 1
+    102216: spine_02 10
+    102218: spine_02 11
+    102220: spine_02 12
+    102222: spine_02 13
+    102224: spine_02 14
+    102226: spine_02 15
+    102228: spine_02 16
+    102230: spine_02 17
+    102232: spine_02 18
+    102234: spine_02 19
+    102236: spine_02 2
+    102238: spine_02 20
+    102240: spine_02 21
+    102242: spine_02 22
+    102244: spine_02 23
+    102246: spine_02 3
+    102248: spine_02 4
+    102250: spine_02 5
+    102252: spine_02 6
+    102254: spine_02 7
+    102256: spine_02 8
+    102258: spine_02 9
+    102260: spine_03
+    102262: spine_03 1
+    102264: spine_03 10
+    102266: spine_03 11
+    102268: spine_03 12
+    102270: spine_03 13
+    102272: spine_03 14
+    102274: spine_03 15
+    102276: spine_03 16
+    102278: spine_03 17
+    102280: spine_03 18
+    102282: spine_03 19
+    102284: spine_03 2
+    102286: spine_03 20
+    102288: spine_03 21
+    102290: spine_03 22
+    102292: spine_03 23
+    102294: spine_03 3
+    102296: spine_03 4
+    102298: spine_03 5
+    102300: spine_03 6
+    102302: spine_03 7
+    102304: spine_03 8
+    102306: spine_03 9
+    102308: Statue
+    102310: Thigh_L
+    102312: Thigh_L 1
+    102314: Thigh_L 10
+    102316: Thigh_L 11
+    102318: Thigh_L 12
+    102320: Thigh_L 13
+    102322: Thigh_L 14
+    102324: Thigh_L 15
+    102326: Thigh_L 16
+    102328: Thigh_L 17
+    102330: Thigh_L 18
+    102332: Thigh_L 19
+    102334: Thigh_L 2
+    102336: Thigh_L 20
+    102338: Thigh_L 21
+    102340: Thigh_L 22
+    102342: Thigh_L 23
+    102344: Thigh_L 3
+    102346: Thigh_L 4
+    102348: Thigh_L 5
+    102350: Thigh_L 6
+    102352: Thigh_L 7
+    102354: Thigh_L 8
+    102356: Thigh_L 9
+    102358: Thigh_R
+    102360: Thigh_R 1
+    102362: Thigh_R 10
+    102364: Thigh_R 11
+    102366: Thigh_R 12
+    102368: Thigh_R 13
+    102370: Thigh_R 14
+    102372: Thigh_R 15
+    102374: Thigh_R 16
+    102376: Thigh_R 17
+    102378: Thigh_R 18
+    102380: Thigh_R 19
+    102382: Thigh_R 2
+    102384: Thigh_R 20
+    102386: Thigh_R 21
+    102388: Thigh_R 22
+    102390: Thigh_R 23
+    102392: Thigh_R 3
+    102394: Thigh_R 4
+    102396: Thigh_R 5
+    102398: Thigh_R 6
+    102400: Thigh_R 7
+    102402: Thigh_R 8
+    102404: Thigh_R 9
+    102406: thumb_01_l
+    102408: thumb_01_l 1
+    102410: thumb_01_l 10
+    102412: thumb_01_l 11
+    102414: thumb_01_l 12
+    102416: thumb_01_l 13
+    102418: thumb_01_l 14
+    102420: thumb_01_l 15
+    102422: thumb_01_l 16
+    102424: thumb_01_l 17
+    102426: thumb_01_l 18
+    102428: thumb_01_l 19
+    102430: thumb_01_l 2
+    102432: thumb_01_l 20
+    102434: thumb_01_l 21
+    102436: thumb_01_l 22
+    102438: thumb_01_l 23
+    102440: thumb_01_l 3
+    102442: thumb_01_l 4
+    102444: thumb_01_l 5
+    102446: thumb_01_l 6
+    102448: thumb_01_l 7
+    102450: thumb_01_l 8
+    102452: thumb_01_l 9
+    102454: thumb_01_r
+    102456: thumb_01_r 1
+    102458: thumb_01_r 10
+    102460: thumb_01_r 11
+    102462: thumb_01_r 12
+    102464: thumb_01_r 13
+    102466: thumb_01_r 14
+    102468: thumb_01_r 15
+    102470: thumb_01_r 16
+    102472: thumb_01_r 17
+    102474: thumb_01_r 18
+    102476: thumb_01_r 19
+    102478: thumb_01_r 2
+    102480: thumb_01_r 20
+    102482: thumb_01_r 21
+    102484: thumb_01_r 22
+    102486: thumb_01_r 23
+    102488: thumb_01_r 3
+    102490: thumb_01_r 4
+    102492: thumb_01_r 5
+    102494: thumb_01_r 6
+    102496: thumb_01_r 7
+    102498: thumb_01_r 8
+    102500: thumb_01_r 9
+    102502: thumb_02_l
+    102504: thumb_02_l 1
+    102506: thumb_02_l 10
+    102508: thumb_02_l 11
+    102510: thumb_02_l 12
+    102512: thumb_02_l 13
+    102514: thumb_02_l 14
+    102516: thumb_02_l 15
+    102518: thumb_02_l 16
+    102520: thumb_02_l 17
+    102522: thumb_02_l 18
+    102524: thumb_02_l 19
+    102526: thumb_02_l 2
+    102528: thumb_02_l 20
+    102530: thumb_02_l 21
+    102532: thumb_02_l 22
+    102534: thumb_02_l 23
+    102536: thumb_02_l 3
+    102538: thumb_02_l 4
+    102540: thumb_02_l 5
+    102542: thumb_02_l 6
+    102544: thumb_02_l 7
+    102546: thumb_02_l 8
+    102548: thumb_02_l 9
+    102550: thumb_02_r
+    102552: thumb_02_r 1
+    102554: thumb_02_r 10
+    102556: thumb_02_r 11
+    102558: thumb_02_r 12
+    102560: thumb_02_r 13
+    102562: thumb_02_r 14
+    102564: thumb_02_r 15
+    102566: thumb_02_r 16
+    102568: thumb_02_r 17
+    102570: thumb_02_r 18
+    102572: thumb_02_r 19
+    102574: thumb_02_r 2
+    102576: thumb_02_r 20
+    102578: thumb_02_r 21
+    102580: thumb_02_r 22
+    102582: thumb_02_r 23
+    102584: thumb_02_r 3
+    102586: thumb_02_r 4
+    102588: thumb_02_r 5
+    102590: thumb_02_r 6
+    102592: thumb_02_r 7
+    102594: thumb_02_r 8
+    102596: thumb_02_r 9
+    102598: thumb_03_l
+    102600: thumb_03_l 1
+    102602: thumb_03_l 10
+    102604: thumb_03_l 11
+    102606: thumb_03_l 12
+    102608: thumb_03_l 13
+    102610: thumb_03_l 14
+    102612: thumb_03_l 15
+    102614: thumb_03_l 16
+    102616: thumb_03_l 17
+    102618: thumb_03_l 18
+    102620: thumb_03_l 19
+    102622: thumb_03_l 2
+    102624: thumb_03_l 20
+    102626: thumb_03_l 21
+    102628: thumb_03_l 22
+    102630: thumb_03_l 23
+    102632: thumb_03_l 3
+    102634: thumb_03_l 4
+    102636: thumb_03_l 5
+    102638: thumb_03_l 6
+    102640: thumb_03_l 7
+    102642: thumb_03_l 8
+    102644: thumb_03_l 9
+    102646: thumb_03_r
+    102648: thumb_03_r 1
+    102650: thumb_03_r 10
+    102652: thumb_03_r 11
+    102654: thumb_03_r 12
+    102656: thumb_03_r 13
+    102658: thumb_03_r 14
+    102660: thumb_03_r 15
+    102662: thumb_03_r 16
+    102664: thumb_03_r 17
+    102666: thumb_03_r 18
+    102668: thumb_03_r 19
+    102670: thumb_03_r 2
+    102672: thumb_03_r 20
+    102674: thumb_03_r 21
+    102676: thumb_03_r 22
+    102678: thumb_03_r 23
+    102680: thumb_03_r 3
+    102682: thumb_03_r 4
+    102684: thumb_03_r 5
+    102686: thumb_03_r 6
+    102688: thumb_03_r 7
+    102690: thumb_03_r 8
+    102692: thumb_03_r 9
+    102694: toes_l
+    102696: toes_l 1
+    102698: toes_l 10
+    102700: toes_l 11
+    102702: toes_l 12
+    102704: toes_l 13
+    102706: toes_l 14
+    102708: toes_l 15
+    102710: toes_l 16
+    102712: toes_l 17
+    102714: toes_l 18
+    102716: toes_l 19
+    102718: toes_l 2
+    102720: toes_l 20
+    102722: toes_l 21
+    102724: toes_l 22
+    102726: toes_l 23
+    102728: toes_l 3
+    102730: toes_l 4
+    102732: toes_l 5
+    102734: toes_l 6
+    102736: toes_l 7
+    102738: toes_l 8
+    102740: toes_l 9
+    102742: toes_r
+    102744: toes_r 1
+    102746: toes_r 10
+    102748: toes_r 11
+    102750: toes_r 12
+    102752: toes_r 13
+    102754: toes_r 14
+    102756: toes_r 15
+    102758: toes_r 16
+    102760: toes_r 17
+    102762: toes_r 18
+    102764: toes_r 19
+    102766: toes_r 2
+    102768: toes_r 20
+    102770: toes_r 21
+    102772: toes_r 22
+    102774: toes_r 23
+    102776: toes_r 3
+    102778: toes_r 4
+    102780: toes_r 5
+    102782: toes_r 6
+    102784: toes_r 7
+    102786: toes_r 8
+    102788: toes_r 9
+    102790: UCX_SM_Base_Dirt_01_136
+    102792: UCX_SM_Base_Dungeon_01_131
+    102794: UCX_SM_Base_Grass_01_128
+    102796: UCX_SM_Base_Mechanical_01_125
+    102798: UCX_SM_Base_Rock_01_120
+    102800: UCX_SM_Prop_Backharness_01_113
+    102802: UCX_SM_Prop_Backharness_02_110
+    102804: UCX_SM_Prop_Backharness_03_68
+    102806: UCX_SM_Prop_Bones_01_71
+    102808: UCX_SM_Prop_Mushroom_01_101
+    102810: UCX_SM_Prop_Mushroom_02_104
+    102812: UCX_SM_Prop_Pouch_01_74
+    102814: UCX_SM_Prop_Pouch_02_77
+    102816: UCX_SM_Prop_Pouch_03_80
+    102818: UCX_SM_Prop_Skull_01_83
+    102820: UCX_SM_Prop_Tree_01_86
+    102822: UCX_SM_Prop_Tree_02_89
+    102824: UCX_SM_Prop_Troll_Helmet_01_92
+    102826: UCX_SM_Wep_AncientQueen_01_23
+    102828: UCX_SM_Wep_AncientWarrior_01_25
+    102830: UCX_SM_Wep_BarbarianGiant_01_27
+    102832: UCX_SM_Wep_BigOrk_01_29
+    102834: UCX_SM_Wep_DarkElf_01_31
+    102836: UCX_SM_Wep_Dwarf_01_33
+    102838: UCX_SM_Wep_ElementalGolem_01_35
+    102840: UCX_SM_Wep_EvilGod_01_37
+    102842: UCX_SM_Wep_ForestGuardian_01_39
+    102844: UCX_SM_Wep_ForestWitch_01_41
+    102846: UCX_SM_Wep_FortGolem_01_43
+    102848: UCX_SM_Wep_MechanicalGolem_01_45
+    102850: UCX_SM_Wep_MechanicalGolem_02_47
+    102852: UCX_SM_Wep_MechanicalGolem_02_Blade_01_49
+    102854: UCX_SM_Wep_Medusa_01_51
+    102856: UCX_SM_Wep_MutantGuy_01_53
+    102858: UCX_SM_Wep_Mystic_01_55
+    102860: UCX_SM_Wep_PigButcher_01_57
+    102862: UCX_SM_Wep_RedDemon_01_59
+    102864: UCX_SM_Wep_Slayer_01_61
+    102866: UCX_SM_Wep_SpiritDemon_01_63
+    102868: UCX_SM_Wep_Troll_01_65
+    102870: UCX_Statue
+    102872: UpperArm_L
+    102874: UpperArm_L 1
+    102876: UpperArm_L 10
+    102878: UpperArm_L 11
+    102880: UpperArm_L 12
+    102882: UpperArm_L 13
+    102884: UpperArm_L 14
+    102886: UpperArm_L 15
+    102888: UpperArm_L 16
+    102890: UpperArm_L 17
+    102892: UpperArm_L 18
+    102894: UpperArm_L 19
+    102896: UpperArm_L 2
+    102898: UpperArm_L 20
+    102900: UpperArm_L 21
+    102902: UpperArm_L 22
+    102904: UpperArm_L 23
+    102906: UpperArm_L 3
+    102908: UpperArm_L 4
+    102910: UpperArm_L 5
+    102912: UpperArm_L 6
+    102914: UpperArm_L 7
+    102916: UpperArm_L 8
+    102918: UpperArm_L 9
+    102920: UpperArm_R
+    102922: UpperArm_R 1
+    102924: UpperArm_R 10
+    102926: UpperArm_R 11
+    102928: UpperArm_R 12
+    102930: UpperArm_R 13
+    102932: UpperArm_R 14
+    102934: UpperArm_R 15
+    102936: UpperArm_R 16
+    102938: UpperArm_R 17
+    102940: UpperArm_R 18
+    102942: UpperArm_R 19
+    102944: UpperArm_R 2
+    102946: UpperArm_R 20
+    102948: UpperArm_R 21
+    102950: UpperArm_R 22
+    102952: UpperArm_R 23
+    102954: UpperArm_R 3
+    102956: UpperArm_R 4
+    102958: UpperArm_R 5
+    102960: UpperArm_R 6
+    102962: UpperArm_R 7
+    102964: UpperArm_R 8
+    102966: UpperArm_R 9
+    102968: WorldSettings_1
+    400000: AbstractNavData-Default
+    400002: ball_l
+    400004: ball_l 1
+    400006: ball_l 10
+    400008: ball_l 11
+    400010: ball_l 12
+    400012: ball_l 13
+    400014: ball_l 14
+    400016: ball_l 15
+    400018: ball_l 16
+    400020: ball_l 17
+    400022: ball_l 18
+    400024: ball_l 19
+    400026: ball_l 2
+    400028: ball_l 20
+    400030: ball_l 21
+    400032: ball_l 22
+    400034: ball_l 23
+    400036: ball_l 3
+    400038: ball_l 4
+    400040: ball_l 5
+    400042: ball_l 6
+    400044: ball_l 7
+    400046: ball_l 8
+    400048: ball_l 9
+    400050: ball_r
+    400052: ball_r 1
+    400054: ball_r 10
+    400056: ball_r 11
+    400058: ball_r 12
+    400060: ball_r 13
+    400062: ball_r 14
+    400064: ball_r 15
+    400066: ball_r 16
+    400068: ball_r 17
+    400070: ball_r 18
+    400072: ball_r 19
+    400074: ball_r 2
+    400076: ball_r 20
+    400078: ball_r 21
+    400080: ball_r 22
+    400082: ball_r 23
+    400084: ball_r 3
+    400086: ball_r 4
+    400088: ball_r 5
+    400090: ball_r 6
+    400092: ball_r 7
+    400094: ball_r 8
+    400096: ball_r 9
+    400098: BP_Sky_Sphere_C_2
+    400100: calf_l
+    400102: calf_l 1
+    400104: calf_l 10
+    400106: calf_l 11
+    400108: calf_l 12
+    400110: calf_l 13
+    400112: calf_l 14
+    400114: calf_l 15
+    400116: calf_l 16
+    400118: calf_l 17
+    400120: calf_l 18
+    400122: calf_l 19
+    400124: calf_l 2
+    400126: calf_l 20
+    400128: calf_l 21
+    400130: calf_l 22
+    400132: calf_l 23
+    400134: calf_l 3
+    400136: calf_l 4
+    400138: calf_l 5
+    400140: calf_l 6
+    400142: calf_l 7
+    400144: calf_l 8
+    400146: calf_l 9
+    400148: calf_r
+    400150: calf_r 1
+    400152: calf_r 10
+    400154: calf_r 11
+    400156: calf_r 12
+    400158: calf_r 13
+    400160: calf_r 14
+    400162: calf_r 15
+    400164: calf_r 16
+    400166: calf_r 17
+    400168: calf_r 18
+    400170: calf_r 19
+    400172: calf_r 2
+    400174: calf_r 20
+    400176: calf_r 21
+    400178: calf_r 22
+    400180: calf_r 23
+    400182: calf_r 3
+    400184: calf_r 4
+    400186: calf_r 5
+    400188: calf_r 6
+    400190: calf_r 7
+    400192: calf_r 8
+    400194: calf_r 9
+    400196: clavicle_l
+    400198: clavicle_l 1
+    400200: clavicle_l 10
+    400202: clavicle_l 11
+    400204: clavicle_l 12
+    400206: clavicle_l 13
+    400208: clavicle_l 14
+    400210: clavicle_l 15
+    400212: clavicle_l 16
+    400214: clavicle_l 17
+    400216: clavicle_l 18
+    400218: clavicle_l 19
+    400220: clavicle_l 2
+    400222: clavicle_l 20
+    400224: clavicle_l 21
+    400226: clavicle_l 22
+    400228: clavicle_l 23
+    400230: clavicle_l 3
+    400232: clavicle_l 4
+    400234: clavicle_l 5
+    400236: clavicle_l 6
+    400238: clavicle_l 7
+    400240: clavicle_l 8
+    400242: clavicle_l 9
+    400244: clavicle_r
+    400246: clavicle_r 1
+    400248: clavicle_r 10
+    400250: clavicle_r 11
+    400252: clavicle_r 12
+    400254: clavicle_r 13
+    400256: clavicle_r 14
+    400258: clavicle_r 15
+    400260: clavicle_r 16
+    400262: clavicle_r 17
+    400264: clavicle_r 18
+    400266: clavicle_r 19
+    400268: clavicle_r 2
+    400270: clavicle_r 20
+    400272: clavicle_r 21
+    400274: clavicle_r 22
+    400276: clavicle_r 23
+    400278: clavicle_r 3
+    400280: clavicle_r 4
+    400282: clavicle_r 5
+    400284: clavicle_r 6
+    400286: clavicle_r 7
+    400288: clavicle_r 8
+    400290: clavicle_r 9
+    400292: eyebrows
+    400294: eyebrows 1
+    400296: eyebrows 10
+    400298: eyebrows 11
+    400300: eyebrows 12
+    400302: eyebrows 13
+    400304: eyebrows 14
+    400306: eyebrows 15
+    400308: eyebrows 16
+    400310: eyebrows 17
+    400312: eyebrows 18
+    400314: eyebrows 19
+    400316: eyebrows 2
+    400318: eyebrows 20
+    400320: eyebrows 21
+    400322: eyebrows 22
+    400324: eyebrows 23
+    400326: eyebrows 3
+    400328: eyebrows 4
+    400330: eyebrows 5
+    400332: eyebrows 6
+    400334: eyebrows 7
+    400336: eyebrows 8
+    400338: eyebrows 9
+    400340: eyes
+    400342: eyes 1
+    400344: eyes 10
+    400346: eyes 11
+    400348: eyes 12
+    400350: eyes 13
+    400352: eyes 14
+    400354: eyes 15
+    400356: eyes 16
+    400358: eyes 17
+    400360: eyes 18
+    400362: eyes 19
+    400364: eyes 2
+    400366: eyes 20
+    400368: eyes 21
+    400370: eyes 22
+    400372: eyes 23
+    400374: eyes 3
+    400376: eyes 4
+    400378: eyes 5
+    400380: eyes 6
+    400382: eyes 7
+    400384: eyes 8
+    400386: eyes 9
+    400388: finger_01_l
+    400390: finger_01_l 1
+    400392: finger_01_l 10
+    400394: finger_01_l 11
+    400396: finger_01_l 12
+    400398: finger_01_l 13
+    400400: finger_01_l 14
+    400402: finger_01_l 15
+    400404: finger_01_l 16
+    400406: finger_01_l 17
+    400408: finger_01_l 18
+    400410: finger_01_l 19
+    400412: finger_01_l 2
+    400414: finger_01_l 20
+    400416: finger_01_l 21
+    400418: finger_01_l 22
+    400420: finger_01_l 23
+    400422: finger_01_l 3
+    400424: finger_01_l 4
+    400426: finger_01_l 5
+    400428: finger_01_l 6
+    400430: finger_01_l 7
+    400432: finger_01_l 8
+    400434: finger_01_l 9
+    400436: finger_01_r
+    400438: finger_01_r 1
+    400440: finger_01_r 10
+    400442: finger_01_r 11
+    400444: finger_01_r 12
+    400446: finger_01_r 13
+    400448: finger_01_r 14
+    400450: finger_01_r 15
+    400452: finger_01_r 16
+    400454: finger_01_r 17
+    400456: finger_01_r 18
+    400458: finger_01_r 19
+    400460: finger_01_r 2
+    400462: finger_01_r 20
+    400464: finger_01_r 21
+    400466: finger_01_r 22
+    400468: finger_01_r 23
+    400470: finger_01_r 3
+    400472: finger_01_r 4
+    400474: finger_01_r 5
+    400476: finger_01_r 6
+    400478: finger_01_r 7
+    400480: finger_01_r 8
+    400482: finger_01_r 9
+    400484: finger_02_l
+    400486: finger_02_l 1
+    400488: finger_02_l 10
+    400490: finger_02_l 11
+    400492: finger_02_l 12
+    400494: finger_02_l 13
+    400496: finger_02_l 14
+    400498: finger_02_l 15
+    400500: finger_02_l 16
+    400502: finger_02_l 17
+    400504: finger_02_l 18
+    400506: finger_02_l 19
+    400508: finger_02_l 2
+    400510: finger_02_l 20
+    400512: finger_02_l 21
+    400514: finger_02_l 22
+    400516: finger_02_l 23
+    400518: finger_02_l 3
+    400520: finger_02_l 4
+    400522: finger_02_l 5
+    400524: finger_02_l 6
+    400526: finger_02_l 7
+    400528: finger_02_l 8
+    400530: finger_02_l 9
+    400532: finger_02_r
+    400534: finger_02_r 1
+    400536: finger_02_r 10
+    400538: finger_02_r 11
+    400540: finger_02_r 12
+    400542: finger_02_r 13
+    400544: finger_02_r 14
+    400546: finger_02_r 15
+    400548: finger_02_r 16
+    400550: finger_02_r 17
+    400552: finger_02_r 18
+    400554: finger_02_r 19
+    400556: finger_02_r 2
+    400558: finger_02_r 20
+    400560: finger_02_r 21
+    400562: finger_02_r 22
+    400564: finger_02_r 23
+    400566: finger_02_r 3
+    400568: finger_02_r 4
+    400570: finger_02_r 5
+    400572: finger_02_r 6
+    400574: finger_02_r 7
+    400576: finger_02_r 8
+    400578: finger_02_r 9
+    400580: finger_03_l
+    400582: finger_03_l 1
+    400584: finger_03_l 10
+    400586: finger_03_l 11
+    400588: finger_03_l 12
+    400590: finger_03_l 13
+    400592: finger_03_l 14
+    400594: finger_03_l 15
+    400596: finger_03_l 16
+    400598: finger_03_l 17
+    400600: finger_03_l 18
+    400602: finger_03_l 19
+    400604: finger_03_l 2
+    400606: finger_03_l 20
+    400608: finger_03_l 21
+    400610: finger_03_l 22
+    400612: finger_03_l 23
+    400614: finger_03_l 3
+    400616: finger_03_l 4
+    400618: finger_03_l 5
+    400620: finger_03_l 6
+    400622: finger_03_l 7
+    400624: finger_03_l 8
+    400626: finger_03_l 9
+    400628: finger_03_r
+    400630: finger_03_r 1
+    400632: finger_03_r 10
+    400634: finger_03_r 11
+    400636: finger_03_r 12
+    400638: finger_03_r 13
+    400640: finger_03_r 14
+    400642: finger_03_r 15
+    400644: finger_03_r 16
+    400646: finger_03_r 17
+    400648: finger_03_r 18
+    400650: finger_03_r 19
+    400652: finger_03_r 2
+    400654: finger_03_r 20
+    400656: finger_03_r 21
+    400658: finger_03_r 22
+    400660: finger_03_r 23
+    400662: finger_03_r 3
+    400664: finger_03_r 4
+    400666: finger_03_r 5
+    400668: finger_03_r 6
+    400670: finger_03_r 7
+    400672: finger_03_r 8
+    400674: finger_03_r 9
+    400676: finger_04_l
+    400678: finger_04_l 1
+    400680: finger_04_l 10
+    400682: finger_04_l 11
+    400684: finger_04_l 12
+    400686: finger_04_l 13
+    400688: finger_04_l 14
+    400690: finger_04_l 15
+    400692: finger_04_l 16
+    400694: finger_04_l 17
+    400696: finger_04_l 18
+    400698: finger_04_l 19
+    400700: finger_04_l 2
+    400702: finger_04_l 20
+    400704: finger_04_l 21
+    400706: finger_04_l 22
+    400708: finger_04_l 23
+    400710: finger_04_l 3
+    400712: finger_04_l 4
+    400714: finger_04_l 5
+    400716: finger_04_l 6
+    400718: finger_04_l 7
+    400720: finger_04_l 8
+    400722: finger_04_l 9
+    400724: finger_04_r
+    400726: finger_04_r 1
+    400728: finger_04_r 10
+    400730: finger_04_r 11
+    400732: finger_04_r 12
+    400734: finger_04_r 13
+    400736: finger_04_r 14
+    400738: finger_04_r 15
+    400740: finger_04_r 16
+    400742: finger_04_r 17
+    400744: finger_04_r 18
+    400746: finger_04_r 19
+    400748: finger_04_r 2
+    400750: finger_04_r 20
+    400752: finger_04_r 21
+    400754: finger_04_r 22
+    400756: finger_04_r 23
+    400758: finger_04_r 3
+    400760: finger_04_r 4
+    400762: finger_04_r 5
+    400764: finger_04_r 6
+    400766: finger_04_r 7
+    400768: finger_04_r 8
+    400770: finger_04_r 9
+    400772: Foot_L
+    400774: Foot_L 1
+    400776: Foot_L 10
+    400778: Foot_L 11
+    400780: Foot_L 12
+    400782: Foot_L 13
+    400784: Foot_L 14
+    400786: Foot_L 15
+    400788: Foot_L 16
+    400790: Foot_L 17
+    400792: Foot_L 18
+    400794: Foot_L 19
+    400796: Foot_L 2
+    400798: Foot_L 20
+    400800: Foot_L 21
+    400802: Foot_L 22
+    400804: Foot_L 23
+    400806: Foot_L 3
+    400808: Foot_L 4
+    400810: Foot_L 5
+    400812: Foot_L 6
+    400814: Foot_L 7
+    400816: Foot_L 8
+    400818: Foot_L 9
+    400820: Foot_R
+    400822: Foot_R 1
+    400824: Foot_R 10
+    400826: Foot_R 11
+    400828: Foot_R 12
+    400830: Foot_R 13
+    400832: Foot_R 14
+    400834: Foot_R 15
+    400836: Foot_R 16
+    400838: Foot_R 17
+    400840: Foot_R 18
+    400842: Foot_R 19
+    400844: Foot_R 2
+    400846: Foot_R 20
+    400848: Foot_R 21
+    400850: Foot_R 22
+    400852: Foot_R 23
+    400854: Foot_R 3
+    400856: Foot_R 4
+    400858: Foot_R 5
+    400860: Foot_R 6
+    400862: Foot_R 7
+    400864: Foot_R 8
+    400866: Foot_R 9
+    400868: Hand_L
+    400870: Hand_L 1
+    400872: Hand_L 10
+    400874: Hand_L 11
+    400876: Hand_L 12
+    400878: Hand_L 13
+    400880: Hand_L 14
+    400882: Hand_L 15
+    400884: Hand_L 16
+    400886: Hand_L 17
+    400888: Hand_L 18
+    400890: Hand_L 19
+    400892: Hand_L 2
+    400894: Hand_L 20
+    400896: Hand_L 21
+    400898: Hand_L 22
+    400900: Hand_L 23
+    400902: Hand_L 3
+    400904: Hand_L 4
+    400906: Hand_L 5
+    400908: Hand_L 6
+    400910: Hand_L 7
+    400912: Hand_L 8
+    400914: Hand_L 9
+    400916: Hand_R
+    400918: Hand_R 1
+    400920: Hand_R 10
+    400922: Hand_R 11
+    400924: Hand_R 12
+    400926: Hand_R 13
+    400928: Hand_R 14
+    400930: Hand_R 15
+    400932: Hand_R 16
+    400934: Hand_R 17
+    400936: Hand_R 18
+    400938: Hand_R 19
+    400940: Hand_R 2
+    400942: Hand_R 20
+    400944: Hand_R 21
+    400946: Hand_R 22
+    400948: Hand_R 23
+    400950: Hand_R 3
+    400952: Hand_R 4
+    400954: Hand_R 5
+    400956: Hand_R 6
+    400958: Hand_R 7
+    400960: Hand_R 8
+    400962: Hand_R 9
+    400964: head
+    400966: head 1
+    400968: head 10
+    400970: head 11
+    400972: head 12
+    400974: head 13
+    400976: head 14
+    400978: head 15
+    400980: head 16
+    400982: head 17
+    400984: head 18
+    400986: head 19
+    400988: head 2
+    400990: head 20
+    400992: head 21
+    400994: head 22
+    400996: head 23
+    400998: head 3
+    401000: head 4
+    401002: head 5
+    401004: head 6
+    401006: head 7
+    401008: head 8
+    401010: head 9
+    401012: ik_foot_l
+    401014: ik_foot_l 1
+    401016: ik_foot_l 10
+    401018: ik_foot_l 11
+    401020: ik_foot_l 12
+    401022: ik_foot_l 13
+    401024: ik_foot_l 14
+    401026: ik_foot_l 15
+    401028: ik_foot_l 16
+    401030: ik_foot_l 17
+    401032: ik_foot_l 18
+    401034: ik_foot_l 19
+    401036: ik_foot_l 2
+    401038: ik_foot_l 20
+    401040: ik_foot_l 21
+    401042: ik_foot_l 22
+    401044: ik_foot_l 23
+    401046: ik_foot_l 3
+    401048: ik_foot_l 4
+    401050: ik_foot_l 5
+    401052: ik_foot_l 6
+    401054: ik_foot_l 7
+    401056: ik_foot_l 8
+    401058: ik_foot_l 9
+    401060: ik_foot_r
+    401062: ik_foot_r 1
+    401064: ik_foot_r 10
+    401066: ik_foot_r 11
+    401068: ik_foot_r 12
+    401070: ik_foot_r 13
+    401072: ik_foot_r 14
+    401074: ik_foot_r 15
+    401076: ik_foot_r 16
+    401078: ik_foot_r 17
+    401080: ik_foot_r 18
+    401082: ik_foot_r 19
+    401084: ik_foot_r 2
+    401086: ik_foot_r 20
+    401088: ik_foot_r 21
+    401090: ik_foot_r 22
+    401092: ik_foot_r 23
+    401094: ik_foot_r 3
+    401096: ik_foot_r 4
+    401098: ik_foot_r 5
+    401100: ik_foot_r 6
+    401102: ik_foot_r 7
+    401104: ik_foot_r 8
+    401106: ik_foot_r 9
+    401108: ik_foot_root
+    401110: ik_foot_root 1
+    401112: ik_foot_root 10
+    401114: ik_foot_root 11
+    401116: ik_foot_root 12
+    401118: ik_foot_root 13
+    401120: ik_foot_root 14
+    401122: ik_foot_root 15
+    401124: ik_foot_root 16
+    401126: ik_foot_root 17
+    401128: ik_foot_root 18
+    401130: ik_foot_root 19
+    401132: ik_foot_root 2
+    401134: ik_foot_root 20
+    401136: ik_foot_root 21
+    401138: ik_foot_root 22
+    401140: ik_foot_root 23
+    401142: ik_foot_root 3
+    401144: ik_foot_root 4
+    401146: ik_foot_root 5
+    401148: ik_foot_root 6
+    401150: ik_foot_root 7
+    401152: ik_foot_root 8
+    401154: ik_foot_root 9
+    401156: ik_hand_gun
+    401158: ik_hand_gun 1
+    401160: ik_hand_gun 10
+    401162: ik_hand_gun 11
+    401164: ik_hand_gun 12
+    401166: ik_hand_gun 13
+    401168: ik_hand_gun 14
+    401170: ik_hand_gun 15
+    401172: ik_hand_gun 16
+    401174: ik_hand_gun 17
+    401176: ik_hand_gun 18
+    401178: ik_hand_gun 19
+    401180: ik_hand_gun 2
+    401182: ik_hand_gun 20
+    401184: ik_hand_gun 21
+    401186: ik_hand_gun 22
+    401188: ik_hand_gun 23
+    401190: ik_hand_gun 3
+    401192: ik_hand_gun 4
+    401194: ik_hand_gun 5
+    401196: ik_hand_gun 6
+    401198: ik_hand_gun 7
+    401200: ik_hand_gun 8
+    401202: ik_hand_gun 9
+    401204: ik_hand_l
+    401206: ik_hand_l 1
+    401208: ik_hand_l 10
+    401210: ik_hand_l 11
+    401212: ik_hand_l 12
+    401214: ik_hand_l 13
+    401216: ik_hand_l 14
+    401218: ik_hand_l 15
+    401220: ik_hand_l 16
+    401222: ik_hand_l 17
+    401224: ik_hand_l 18
+    401226: ik_hand_l 19
+    401228: ik_hand_l 2
+    401230: ik_hand_l 20
+    401232: ik_hand_l 21
+    401234: ik_hand_l 22
+    401236: ik_hand_l 23
+    401238: ik_hand_l 3
+    401240: ik_hand_l 4
+    401242: ik_hand_l 5
+    401244: ik_hand_l 6
+    401246: ik_hand_l 7
+    401248: ik_hand_l 8
+    401250: ik_hand_l 9
+    401252: ik_hand_r
+    401254: ik_hand_r 1
+    401256: ik_hand_r 10
+    401258: ik_hand_r 11
+    401260: ik_hand_r 12
+    401262: ik_hand_r 13
+    401264: ik_hand_r 14
+    401266: ik_hand_r 15
+    401268: ik_hand_r 16
+    401270: ik_hand_r 17
+    401272: ik_hand_r 18
+    401274: ik_hand_r 19
+    401276: ik_hand_r 2
+    401278: ik_hand_r 20
+    401280: ik_hand_r 21
+    401282: ik_hand_r 22
+    401284: ik_hand_r 23
+    401286: ik_hand_r 3
+    401288: ik_hand_r 4
+    401290: ik_hand_r 5
+    401292: ik_hand_r 6
+    401294: ik_hand_r 7
+    401296: ik_hand_r 8
+    401298: ik_hand_r 9
+    401300: ik_hand_root
+    401302: ik_hand_root 1
+    401304: ik_hand_root 10
+    401306: ik_hand_root 11
+    401308: ik_hand_root 12
+    401310: ik_hand_root 13
+    401312: ik_hand_root 14
+    401314: ik_hand_root 15
+    401316: ik_hand_root 16
+    401318: ik_hand_root 17
+    401320: ik_hand_root 18
+    401322: ik_hand_root 19
+    401324: ik_hand_root 2
+    401326: ik_hand_root 20
+    401328: ik_hand_root 21
+    401330: ik_hand_root 22
+    401332: ik_hand_root 23
+    401334: ik_hand_root 3
+    401336: ik_hand_root 4
+    401338: ik_hand_root 5
+    401340: ik_hand_root 6
+    401342: ik_hand_root 7
+    401344: ik_hand_root 8
+    401346: ik_hand_root 9
+    401348: indexFinger_01_l
+    401350: indexFinger_01_l 1
+    401352: indexFinger_01_l 10
+    401354: indexFinger_01_l 11
+    401356: indexFinger_01_l 12
+    401358: indexFinger_01_l 13
+    401360: indexFinger_01_l 14
+    401362: indexFinger_01_l 15
+    401364: indexFinger_01_l 16
+    401366: indexFinger_01_l 17
+    401368: indexFinger_01_l 18
+    401370: indexFinger_01_l 19
+    401372: indexFinger_01_l 2
+    401374: indexFinger_01_l 20
+    401376: indexFinger_01_l 21
+    401378: indexFinger_01_l 22
+    401380: indexFinger_01_l 23
+    401382: indexFinger_01_l 3
+    401384: indexFinger_01_l 4
+    401386: indexFinger_01_l 5
+    401388: indexFinger_01_l 6
+    401390: indexFinger_01_l 7
+    401392: indexFinger_01_l 8
+    401394: indexFinger_01_l 9
+    401396: indexFinger_01_r
+    401398: indexFinger_01_r 1
+    401400: indexFinger_01_r 10
+    401402: indexFinger_01_r 11
+    401404: indexFinger_01_r 12
+    401406: indexFinger_01_r 13
+    401408: indexFinger_01_r 14
+    401410: indexFinger_01_r 15
+    401412: indexFinger_01_r 16
+    401414: indexFinger_01_r 17
+    401416: indexFinger_01_r 18
+    401418: indexFinger_01_r 19
+    401420: indexFinger_01_r 2
+    401422: indexFinger_01_r 20
+    401424: indexFinger_01_r 21
+    401426: indexFinger_01_r 22
+    401428: indexFinger_01_r 23
+    401430: indexFinger_01_r 3
+    401432: indexFinger_01_r 4
+    401434: indexFinger_01_r 5
+    401436: indexFinger_01_r 6
+    401438: indexFinger_01_r 7
+    401440: indexFinger_01_r 8
+    401442: indexFinger_01_r 9
+    401444: indexFinger_02_l
+    401446: indexFinger_02_l 1
+    401448: indexFinger_02_l 10
+    401450: indexFinger_02_l 11
+    401452: indexFinger_02_l 12
+    401454: indexFinger_02_l 13
+    401456: indexFinger_02_l 14
+    401458: indexFinger_02_l 15
+    401460: indexFinger_02_l 16
+    401462: indexFinger_02_l 17
+    401464: indexFinger_02_l 18
+    401466: indexFinger_02_l 19
+    401468: indexFinger_02_l 2
+    401470: indexFinger_02_l 20
+    401472: indexFinger_02_l 21
+    401474: indexFinger_02_l 22
+    401476: indexFinger_02_l 23
+    401478: indexFinger_02_l 3
+    401480: indexFinger_02_l 4
+    401482: indexFinger_02_l 5
+    401484: indexFinger_02_l 6
+    401486: indexFinger_02_l 7
+    401488: indexFinger_02_l 8
+    401490: indexFinger_02_l 9
+    401492: indexFinger_02_r
+    401494: indexFinger_02_r 1
+    401496: indexFinger_02_r 10
+    401498: indexFinger_02_r 11
+    401500: indexFinger_02_r 12
+    401502: indexFinger_02_r 13
+    401504: indexFinger_02_r 14
+    401506: indexFinger_02_r 15
+    401508: indexFinger_02_r 16
+    401510: indexFinger_02_r 17
+    401512: indexFinger_02_r 18
+    401514: indexFinger_02_r 19
+    401516: indexFinger_02_r 2
+    401518: indexFinger_02_r 20
+    401520: indexFinger_02_r 21
+    401522: indexFinger_02_r 22
+    401524: indexFinger_02_r 23
+    401526: indexFinger_02_r 3
+    401528: indexFinger_02_r 4
+    401530: indexFinger_02_r 5
+    401532: indexFinger_02_r 6
+    401534: indexFinger_02_r 7
+    401536: indexFinger_02_r 8
+    401538: indexFinger_02_r 9
+    401540: indexFinger_03_l
+    401542: indexFinger_03_l 1
+    401544: indexFinger_03_l 10
+    401546: indexFinger_03_l 11
+    401548: indexFinger_03_l 12
+    401550: indexFinger_03_l 13
+    401552: indexFinger_03_l 14
+    401554: indexFinger_03_l 15
+    401556: indexFinger_03_l 16
+    401558: indexFinger_03_l 17
+    401560: indexFinger_03_l 18
+    401562: indexFinger_03_l 19
+    401564: indexFinger_03_l 2
+    401566: indexFinger_03_l 20
+    401568: indexFinger_03_l 21
+    401570: indexFinger_03_l 22
+    401572: indexFinger_03_l 23
+    401574: indexFinger_03_l 3
+    401576: indexFinger_03_l 4
+    401578: indexFinger_03_l 5
+    401580: indexFinger_03_l 6
+    401582: indexFinger_03_l 7
+    401584: indexFinger_03_l 8
+    401586: indexFinger_03_l 9
+    401588: indexFinger_03_r
+    401590: indexFinger_03_r 1
+    401592: indexFinger_03_r 10
+    401594: indexFinger_03_r 11
+    401596: indexFinger_03_r 12
+    401598: indexFinger_03_r 13
+    401600: indexFinger_03_r 14
+    401602: indexFinger_03_r 15
+    401604: indexFinger_03_r 16
+    401606: indexFinger_03_r 17
+    401608: indexFinger_03_r 18
+    401610: indexFinger_03_r 19
+    401612: indexFinger_03_r 2
+    401614: indexFinger_03_r 20
+    401616: indexFinger_03_r 21
+    401618: indexFinger_03_r 22
+    401620: indexFinger_03_r 23
+    401622: indexFinger_03_r 3
+    401624: indexFinger_03_r 4
+    401626: indexFinger_03_r 5
+    401628: indexFinger_03_r 6
+    401630: indexFinger_03_r 7
+    401632: indexFinger_03_r 8
+    401634: indexFinger_03_r 9
+    401636: indexFinger_04_l
+    401638: indexFinger_04_l 1
+    401640: indexFinger_04_l 10
+    401642: indexFinger_04_l 11
+    401644: indexFinger_04_l 12
+    401646: indexFinger_04_l 13
+    401648: indexFinger_04_l 14
+    401650: indexFinger_04_l 15
+    401652: indexFinger_04_l 16
+    401654: indexFinger_04_l 17
+    401656: indexFinger_04_l 18
+    401658: indexFinger_04_l 19
+    401660: indexFinger_04_l 2
+    401662: indexFinger_04_l 20
+    401664: indexFinger_04_l 21
+    401666: indexFinger_04_l 22
+    401668: indexFinger_04_l 23
+    401670: indexFinger_04_l 3
+    401672: indexFinger_04_l 4
+    401674: indexFinger_04_l 5
+    401676: indexFinger_04_l 6
+    401678: indexFinger_04_l 7
+    401680: indexFinger_04_l 8
+    401682: indexFinger_04_l 9
+    401684: indexFinger_04_r
+    401686: indexFinger_04_r 1
+    401688: indexFinger_04_r 10
+    401690: indexFinger_04_r 11
+    401692: indexFinger_04_r 12
+    401694: indexFinger_04_r 13
+    401696: indexFinger_04_r 14
+    401698: indexFinger_04_r 15
+    401700: indexFinger_04_r 16
+    401702: indexFinger_04_r 17
+    401704: indexFinger_04_r 18
+    401706: indexFinger_04_r 19
+    401708: indexFinger_04_r 2
+    401710: indexFinger_04_r 20
+    401712: indexFinger_04_r 21
+    401714: indexFinger_04_r 22
+    401716: indexFinger_04_r 23
+    401718: indexFinger_04_r 3
+    401720: indexFinger_04_r 4
+    401722: indexFinger_04_r 5
+    401724: indexFinger_04_r 6
+    401726: indexFinger_04_r 7
+    401728: indexFinger_04_r 8
+    401730: indexFinger_04_r 9
+    401732: InstancedFoliageActor_0
+    401734: LightSource
+    401736: lowerarm_l
+    401738: lowerarm_l 1
+    401740: lowerarm_l 10
+    401742: lowerarm_l 11
+    401744: lowerarm_l 12
+    401746: lowerarm_l 13
+    401748: lowerarm_l 14
+    401750: lowerarm_l 15
+    401752: lowerarm_l 16
+    401754: lowerarm_l 17
+    401756: lowerarm_l 18
+    401758: lowerarm_l 19
+    401760: lowerarm_l 2
+    401762: lowerarm_l 20
+    401764: lowerarm_l 21
+    401766: lowerarm_l 22
+    401768: lowerarm_l 23
+    401770: lowerarm_l 3
+    401772: lowerarm_l 4
+    401774: lowerarm_l 5
+    401776: lowerarm_l 6
+    401778: lowerarm_l 7
+    401780: lowerarm_l 8
+    401782: lowerarm_l 9
+    401784: lowerarm_r
+    401786: lowerarm_r 1
+    401788: lowerarm_r 10
+    401790: lowerarm_r 11
+    401792: lowerarm_r 12
+    401794: lowerarm_r 13
+    401796: lowerarm_r 14
+    401798: lowerarm_r 15
+    401800: lowerarm_r 16
+    401802: lowerarm_r 17
+    401804: lowerarm_r 18
+    401806: lowerarm_r 19
+    401808: lowerarm_r 2
+    401810: lowerarm_r 20
+    401812: lowerarm_r 21
+    401814: lowerarm_r 22
+    401816: lowerarm_r 23
+    401818: lowerarm_r 3
+    401820: lowerarm_r 4
+    401822: lowerarm_r 5
+    401824: lowerarm_r 6
+    401826: lowerarm_r 7
+    401828: lowerarm_r 8
+    401830: lowerarm_r 9
+    401832: //RootNode
+    401834: Minimal_Default_C_0
+    401836: neck_01
+    401838: neck_01 1
+    401840: neck_01 10
+    401842: neck_01 11
+    401844: neck_01 12
+    401846: neck_01 13
+    401848: neck_01 14
+    401850: neck_01 15
+    401852: neck_01 16
+    401854: neck_01 17
+    401856: neck_01 18
+    401858: neck_01 19
+    401860: neck_01 2
+    401862: neck_01 20
+    401864: neck_01 21
+    401866: neck_01 22
+    401868: neck_01 23
+    401870: neck_01 3
+    401872: neck_01 4
+    401874: neck_01 5
+    401876: neck_01 6
+    401878: neck_01 7
+    401880: neck_01 8
+    401882: neck_01 9
+    401884: Pelvis
+    401886: Pelvis 1
+    401888: Pelvis 10
+    401890: Pelvis 11
+    401892: Pelvis 12
+    401894: Pelvis 13
+    401896: Pelvis 14
+    401898: Pelvis 15
+    401900: Pelvis 16
+    401902: Pelvis 17
+    401904: Pelvis 18
+    401906: Pelvis 19
+    401908: Pelvis 2
+    401910: Pelvis 20
+    401912: Pelvis 21
+    401914: Pelvis 22
+    401916: Pelvis 23
+    401918: Pelvis 3
+    401920: Pelvis 4
+    401922: Pelvis 5
+    401924: Pelvis 6
+    401926: Pelvis 7
+    401928: Pelvis 8
+    401930: Pelvis 9
+    401932: Root
+    401934: Root 1
+    401936: Root 10
+    401938: Root 11
+    401940: Root 12
+    401942: Root 13
+    401944: Root 14
+    401946: Root 15
+    401948: Root 16
+    401950: Root 17
+    401952: Root 18
+    401954: Root 19
+    401956: Root 2
+    401958: Root 20
+    401960: Root 21
+    401962: Root 22
+    401964: Root 23
+    401966: Root 3
+    401968: Root 4
+    401970: Root 5
+    401972: Root 6
+    401974: Root 7
+    401976: Root 8
+    401978: Root 9
+    401980: SK_BR_Character_BarbarianGiant_01_59
+    401982: SK_BR_Character_Big_Ork_01_61
+    401984: SK_BR_Character_Dwarf_01_63
+    401986: SK_BR_Character_ElementalGolem_01_65
+    401988: SK_BR_Character_FortGolem_01_67
+    401990: SK_BR_Character_MechanicalGolem_01_69
+    401992: SK_BR_Character_MutantGuy_01_71
+    401994: SK_BR_Character_PhysicsAsset_73
+    401996: SK_BR_Character_Pig_Butcher_01_75
+    401998: SK_BR_Character_RedDemon_01_77
+    402000: SK_BR_Character_Skeleton_79
+    402002: SK_BR_Character_Slayer_01_81
+    402004: SK_BR_Character_Troll_01_83
+    402006: SK_Character_Ancient_Warrior_01_85
+    402008: SK_Character_AncientQueen_01_87
+    402010: SK_Character_DarkElf_01_89
+    402012: SK_Character_EvilGod_01_91
+    402014: SK_Character_ForestGuardian_01_93
+    402016: SK_Character_ForestWitch_01_95
+    402018: SK_Character_Medusa_01_97
+    402020: SK_Character_Mystic_01_99
+    402022: SK_Character_PhysicsAsset_101
+    402024: SK_Character_Skeleton_103
+    402026: SK_Character_SpiritDemon_105
+    402028: SkeletalMeshComponent0
+    402030: SkeletalMeshComponent0 1
+    402032: SkeletalMeshComponent0 10
+    402034: SkeletalMeshComponent0 11
+    402036: SkeletalMeshComponent0 12
+    402038: SkeletalMeshComponent0 13
+    402040: SkeletalMeshComponent0 14
+    402042: SkeletalMeshComponent0 15
+    402044: SkeletalMeshComponent0 16
+    402046: SkeletalMeshComponent0 17
+    402048: SkeletalMeshComponent0 18
+    402050: SkeletalMeshComponent0 19
+    402052: SkeletalMeshComponent0 2
+    402054: SkeletalMeshComponent0 20
+    402056: SkeletalMeshComponent0 21
+    402058: SkeletalMeshComponent0 22
+    402060: SkeletalMeshComponent0 23
+    402062: SkeletalMeshComponent0 3
+    402064: SkeletalMeshComponent0 4
+    402066: SkeletalMeshComponent0 5
+    402068: SkeletalMeshComponent0 6
+    402070: SkeletalMeshComponent0 7
+    402072: SkeletalMeshComponent0 8
+    402074: SkeletalMeshComponent0 9
+    402076: SkyLight_1
+    402078: SM_Base_Dirt_01_136
+    402080: SM_Base_Dungeon_01_131
+    402082: SM_Base_Grass_01_128
+    402084: SM_Base_Mechanical_01_125
+    402086: SM_Base_Rock_01_120
+    402088: SM_Prop_Backharness_01_113
+    402090: SM_Prop_Backharness_02_110
+    402092: SM_Prop_Backharness_03_68
+    402094: SM_Prop_Bones_01_71
+    402096: SM_Prop_Mushroom_01_101
+    402098: SM_Prop_Mushroom_02_104
+    402100: SM_Prop_Pouch_01_74
+    402102: SM_Prop_Pouch_02_77
+    402104: SM_Prop_Pouch_03_80
+    402106: SM_Prop_Skull_01_83
+    402108: SM_Prop_Tree_01_86
+    402110: SM_Prop_Tree_02_89
+    402112: SM_Prop_Troll_Helmet_01_92
+    402114: SM_Runes_Inner_95
+    402116: SM_Runes_Outer_98
+    402118: SM_Wep_AncientQueen_01_23
+    402120: SM_Wep_AncientWarrior_01_25
+    402122: SM_Wep_BarbarianGiant_01_27
+    402124: SM_Wep_BigOrk_01_29
+    402126: SM_Wep_DarkElf_01_31
+    402128: SM_Wep_Dwarf_01_33
+    402130: SM_Wep_ElementalGolem_01_35
+    402132: SM_Wep_EvilGod_01_37
+    402134: SM_Wep_ForestGuardian_01_39
+    402136: SM_Wep_ForestWitch_01_41
+    402138: SM_Wep_FortGolem_01_43
+    402140: SM_Wep_MechanicalGolem_01_45
+    402142: SM_Wep_MechanicalGolem_02_47
+    402144: SM_Wep_MechanicalGolem_02_Blade_01_49
+    402146: SM_Wep_Medusa_01_51
+    402148: SM_Wep_MutantGuy_01_53
+    402150: SM_Wep_Mystic_01_55
+    402152: SM_Wep_PigButcher_01_57
+    402154: SM_Wep_RedDemon_01_59
+    402156: SM_Wep_Slayer_01_61
+    402158: SM_Wep_SpiritDemon_01_63
+    402160: SM_Wep_Troll_01_65
+    402162: SphereReflectionCapture_1
+    402164: spine_01
+    402166: spine_01 1
+    402168: spine_01 10
+    402170: spine_01 11
+    402172: spine_01 12
+    402174: spine_01 13
+    402176: spine_01 14
+    402178: spine_01 15
+    402180: spine_01 16
+    402182: spine_01 17
+    402184: spine_01 18
+    402186: spine_01 19
+    402188: spine_01 2
+    402190: spine_01 20
+    402192: spine_01 21
+    402194: spine_01 22
+    402196: spine_01 23
+    402198: spine_01 3
+    402200: spine_01 4
+    402202: spine_01 5
+    402204: spine_01 6
+    402206: spine_01 7
+    402208: spine_01 8
+    402210: spine_01 9
+    402212: spine_02
+    402214: spine_02 1
+    402216: spine_02 10
+    402218: spine_02 11
+    402220: spine_02 12
+    402222: spine_02 13
+    402224: spine_02 14
+    402226: spine_02 15
+    402228: spine_02 16
+    402230: spine_02 17
+    402232: spine_02 18
+    402234: spine_02 19
+    402236: spine_02 2
+    402238: spine_02 20
+    402240: spine_02 21
+    402242: spine_02 22
+    402244: spine_02 23
+    402246: spine_02 3
+    402248: spine_02 4
+    402250: spine_02 5
+    402252: spine_02 6
+    402254: spine_02 7
+    402256: spine_02 8
+    402258: spine_02 9
+    402260: spine_03
+    402262: spine_03 1
+    402264: spine_03 10
+    402266: spine_03 11
+    402268: spine_03 12
+    402270: spine_03 13
+    402272: spine_03 14
+    402274: spine_03 15
+    402276: spine_03 16
+    402278: spine_03 17
+    402280: spine_03 18
+    402282: spine_03 19
+    402284: spine_03 2
+    402286: spine_03 20
+    402288: spine_03 21
+    402290: spine_03 22
+    402292: spine_03 23
+    402294: spine_03 3
+    402296: spine_03 4
+    402298: spine_03 5
+    402300: spine_03 6
+    402302: spine_03 7
+    402304: spine_03 8
+    402306: spine_03 9
+    402308: Statue
+    402310: Thigh_L
+    402312: Thigh_L 1
+    402314: Thigh_L 10
+    402316: Thigh_L 11
+    402318: Thigh_L 12
+    402320: Thigh_L 13
+    402322: Thigh_L 14
+    402324: Thigh_L 15
+    402326: Thigh_L 16
+    402328: Thigh_L 17
+    402330: Thigh_L 18
+    402332: Thigh_L 19
+    402334: Thigh_L 2
+    402336: Thigh_L 20
+    402338: Thigh_L 21
+    402340: Thigh_L 22
+    402342: Thigh_L 23
+    402344: Thigh_L 3
+    402346: Thigh_L 4
+    402348: Thigh_L 5
+    402350: Thigh_L 6
+    402352: Thigh_L 7
+    402354: Thigh_L 8
+    402356: Thigh_L 9
+    402358: Thigh_R
+    402360: Thigh_R 1
+    402362: Thigh_R 10
+    402364: Thigh_R 11
+    402366: Thigh_R 12
+    402368: Thigh_R 13
+    402370: Thigh_R 14
+    402372: Thigh_R 15
+    402374: Thigh_R 16
+    402376: Thigh_R 17
+    402378: Thigh_R 18
+    402380: Thigh_R 19
+    402382: Thigh_R 2
+    402384: Thigh_R 20
+    402386: Thigh_R 21
+    402388: Thigh_R 22
+    402390: Thigh_R 23
+    402392: Thigh_R 3
+    402394: Thigh_R 4
+    402396: Thigh_R 5
+    402398: Thigh_R 6
+    402400: Thigh_R 7
+    402402: Thigh_R 8
+    402404: Thigh_R 9
+    402406: thumb_01_l
+    402408: thumb_01_l 1
+    402410: thumb_01_l 10
+    402412: thumb_01_l 11
+    402414: thumb_01_l 12
+    402416: thumb_01_l 13
+    402418: thumb_01_l 14
+    402420: thumb_01_l 15
+    402422: thumb_01_l 16
+    402424: thumb_01_l 17
+    402426: thumb_01_l 18
+    402428: thumb_01_l 19
+    402430: thumb_01_l 2
+    402432: thumb_01_l 20
+    402434: thumb_01_l 21
+    402436: thumb_01_l 22
+    402438: thumb_01_l 23
+    402440: thumb_01_l 3
+    402442: thumb_01_l 4
+    402444: thumb_01_l 5
+    402446: thumb_01_l 6
+    402448: thumb_01_l 7
+    402450: thumb_01_l 8
+    402452: thumb_01_l 9
+    402454: thumb_01_r
+    402456: thumb_01_r 1
+    402458: thumb_01_r 10
+    402460: thumb_01_r 11
+    402462: thumb_01_r 12
+    402464: thumb_01_r 13
+    402466: thumb_01_r 14
+    402468: thumb_01_r 15
+    402470: thumb_01_r 16
+    402472: thumb_01_r 17
+    402474: thumb_01_r 18
+    402476: thumb_01_r 19
+    402478: thumb_01_r 2
+    402480: thumb_01_r 20
+    402482: thumb_01_r 21
+    402484: thumb_01_r 22
+    402486: thumb_01_r 23
+    402488: thumb_01_r 3
+    402490: thumb_01_r 4
+    402492: thumb_01_r 5
+    402494: thumb_01_r 6
+    402496: thumb_01_r 7
+    402498: thumb_01_r 8
+    402500: thumb_01_r 9
+    402502: thumb_02_l
+    402504: thumb_02_l 1
+    402506: thumb_02_l 10
+    402508: thumb_02_l 11
+    402510: thumb_02_l 12
+    402512: thumb_02_l 13
+    402514: thumb_02_l 14
+    402516: thumb_02_l 15
+    402518: thumb_02_l 16
+    402520: thumb_02_l 17
+    402522: thumb_02_l 18
+    402524: thumb_02_l 19
+    402526: thumb_02_l 2
+    402528: thumb_02_l 20
+    402530: thumb_02_l 21
+    402532: thumb_02_l 22
+    402534: thumb_02_l 23
+    402536: thumb_02_l 3
+    402538: thumb_02_l 4
+    402540: thumb_02_l 5
+    402542: thumb_02_l 6
+    402544: thumb_02_l 7
+    402546: thumb_02_l 8
+    402548: thumb_02_l 9
+    402550: thumb_02_r
+    402552: thumb_02_r 1
+    402554: thumb_02_r 10
+    402556: thumb_02_r 11
+    402558: thumb_02_r 12
+    402560: thumb_02_r 13
+    402562: thumb_02_r 14
+    402564: thumb_02_r 15
+    402566: thumb_02_r 16
+    402568: thumb_02_r 17
+    402570: thumb_02_r 18
+    402572: thumb_02_r 19
+    402574: thumb_02_r 2
+    402576: thumb_02_r 20
+    402578: thumb_02_r 21
+    402580: thumb_02_r 22
+    402582: thumb_02_r 23
+    402584: thumb_02_r 3
+    402586: thumb_02_r 4
+    402588: thumb_02_r 5
+    402590: thumb_02_r 6
+    402592: thumb_02_r 7
+    402594: thumb_02_r 8
+    402596: thumb_02_r 9
+    402598: thumb_03_l
+    402600: thumb_03_l 1
+    402602: thumb_03_l 10
+    402604: thumb_03_l 11
+    402606: thumb_03_l 12
+    402608: thumb_03_l 13
+    402610: thumb_03_l 14
+    402612: thumb_03_l 15
+    402614: thumb_03_l 16
+    402616: thumb_03_l 17
+    402618: thumb_03_l 18
+    402620: thumb_03_l 19
+    402622: thumb_03_l 2
+    402624: thumb_03_l 20
+    402626: thumb_03_l 21
+    402628: thumb_03_l 22
+    402630: thumb_03_l 23
+    402632: thumb_03_l 3
+    402634: thumb_03_l 4
+    402636: thumb_03_l 5
+    402638: thumb_03_l 6
+    402640: thumb_03_l 7
+    402642: thumb_03_l 8
+    402644: thumb_03_l 9
+    402646: thumb_03_r
+    402648: thumb_03_r 1
+    402650: thumb_03_r 10
+    402652: thumb_03_r 11
+    402654: thumb_03_r 12
+    402656: thumb_03_r 13
+    402658: thumb_03_r 14
+    402660: thumb_03_r 15
+    402662: thumb_03_r 16
+    402664: thumb_03_r 17
+    402666: thumb_03_r 18
+    402668: thumb_03_r 19
+    402670: thumb_03_r 2
+    402672: thumb_03_r 20
+    402674: thumb_03_r 21
+    402676: thumb_03_r 22
+    402678: thumb_03_r 23
+    402680: thumb_03_r 3
+    402682: thumb_03_r 4
+    402684: thumb_03_r 5
+    402686: thumb_03_r 6
+    402688: thumb_03_r 7
+    402690: thumb_03_r 8
+    402692: thumb_03_r 9
+    402694: toes_l
+    402696: toes_l 1
+    402698: toes_l 10
+    402700: toes_l 11
+    402702: toes_l 12
+    402704: toes_l 13
+    402706: toes_l 14
+    402708: toes_l 15
+    402710: toes_l 16
+    402712: toes_l 17
+    402714: toes_l 18
+    402716: toes_l 19
+    402718: toes_l 2
+    402720: toes_l 20
+    402722: toes_l 21
+    402724: toes_l 22
+    402726: toes_l 23
+    402728: toes_l 3
+    402730: toes_l 4
+    402732: toes_l 5
+    402734: toes_l 6
+    402736: toes_l 7
+    402738: toes_l 8
+    402740: toes_l 9
+    402742: toes_r
+    402744: toes_r 1
+    402746: toes_r 10
+    402748: toes_r 11
+    402750: toes_r 12
+    402752: toes_r 13
+    402754: toes_r 14
+    402756: toes_r 15
+    402758: toes_r 16
+    402760: toes_r 17
+    402762: toes_r 18
+    402764: toes_r 19
+    402766: toes_r 2
+    402768: toes_r 20
+    402770: toes_r 21
+    402772: toes_r 22
+    402774: toes_r 23
+    402776: toes_r 3
+    402778: toes_r 4
+    402780: toes_r 5
+    402782: toes_r 6
+    402784: toes_r 7
+    402786: toes_r 8
+    402788: toes_r 9
+    402790: UCX_SM_Base_Dirt_01_136
+    402792: UCX_SM_Base_Dungeon_01_131
+    402794: UCX_SM_Base_Grass_01_128
+    402796: UCX_SM_Base_Mechanical_01_125
+    402798: UCX_SM_Base_Rock_01_120
+    402800: UCX_SM_Prop_Backharness_01_113
+    402802: UCX_SM_Prop_Backharness_02_110
+    402804: UCX_SM_Prop_Backharness_03_68
+    402806: UCX_SM_Prop_Bones_01_71
+    402808: UCX_SM_Prop_Mushroom_01_101
+    402810: UCX_SM_Prop_Mushroom_02_104
+    402812: UCX_SM_Prop_Pouch_01_74
+    402814: UCX_SM_Prop_Pouch_02_77
+    402816: UCX_SM_Prop_Pouch_03_80
+    402818: UCX_SM_Prop_Skull_01_83
+    402820: UCX_SM_Prop_Tree_01_86
+    402822: UCX_SM_Prop_Tree_02_89
+    402824: UCX_SM_Prop_Troll_Helmet_01_92
+    402826: UCX_SM_Wep_AncientQueen_01_23
+    402828: UCX_SM_Wep_AncientWarrior_01_25
+    402830: UCX_SM_Wep_BarbarianGiant_01_27
+    402832: UCX_SM_Wep_BigOrk_01_29
+    402834: UCX_SM_Wep_DarkElf_01_31
+    402836: UCX_SM_Wep_Dwarf_01_33
+    402838: UCX_SM_Wep_ElementalGolem_01_35
+    402840: UCX_SM_Wep_EvilGod_01_37
+    402842: UCX_SM_Wep_ForestGuardian_01_39
+    402844: UCX_SM_Wep_ForestWitch_01_41
+    402846: UCX_SM_Wep_FortGolem_01_43
+    402848: UCX_SM_Wep_MechanicalGolem_01_45
+    402850: UCX_SM_Wep_MechanicalGolem_02_47
+    402852: UCX_SM_Wep_MechanicalGolem_02_Blade_01_49
+    402854: UCX_SM_Wep_Medusa_01_51
+    402856: UCX_SM_Wep_MutantGuy_01_53
+    402858: UCX_SM_Wep_Mystic_01_55
+    402860: UCX_SM_Wep_PigButcher_01_57
+    402862: UCX_SM_Wep_RedDemon_01_59
+    402864: UCX_SM_Wep_Slayer_01_61
+    402866: UCX_SM_Wep_SpiritDemon_01_63
+    402868: UCX_SM_Wep_Troll_01_65
+    402870: UCX_Statue
+    402872: UpperArm_L
+    402874: UpperArm_L 1
+    402876: UpperArm_L 10
+    402878: UpperArm_L 11
+    402880: UpperArm_L 12
+    402882: UpperArm_L 13
+    402884: UpperArm_L 14
+    402886: UpperArm_L 15
+    402888: UpperArm_L 16
+    402890: UpperArm_L 17
+    402892: UpperArm_L 18
+    402894: UpperArm_L 19
+    402896: UpperArm_L 2
+    402898: UpperArm_L 20
+    402900: UpperArm_L 21
+    402902: UpperArm_L 22
+    402904: UpperArm_L 23
+    402906: UpperArm_L 3
+    402908: UpperArm_L 4
+    402910: UpperArm_L 5
+    402912: UpperArm_L 6
+    402914: UpperArm_L 7
+    402916: UpperArm_L 8
+    402918: UpperArm_L 9
+    402920: UpperArm_R
+    402922: UpperArm_R 1
+    402924: UpperArm_R 10
+    402926: UpperArm_R 11
+    402928: UpperArm_R 12
+    402930: UpperArm_R 13
+    402932: UpperArm_R 14
+    402934: UpperArm_R 15
+    402936: UpperArm_R 16
+    402938: UpperArm_R 17
+    402940: UpperArm_R 18
+    402942: UpperArm_R 19
+    402944: UpperArm_R 2
+    402946: UpperArm_R 20
+    402948: UpperArm_R 21
+    402950: UpperArm_R 22
+    402952: UpperArm_R 23
+    402954: UpperArm_R 3
+    402956: UpperArm_R 4
+    402958: UpperArm_R 5
+    402960: UpperArm_R 6
+    402962: UpperArm_R 7
+    402964: UpperArm_R 8
+    402966: UpperArm_R 9
+    402968: WorldSettings_1
+    2100000: M_StatueGlass
+    2100002: M_Statue
+    2100004: No Name
+    2100006: M_Sky_Panning_Clouds2
+    2100008: Mat_FantasyRivals_01_A
+    2100010: Fbx Default Material 0
+    2100012: Mat_Ghost_Body
+    2100014: Fbx Default Material 1
+    2100016: Mat_Runes_FX
+    2300000: BP_Sky_Sphere_C_2
+    2300002: SM_Base_Dirt_01_136
+    2300004: SM_Base_Dungeon_01_131
+    2300006: SM_Base_Grass_01_128
+    2300008: SM_Base_Mechanical_01_125
+    2300010: SM_Base_Rock_01_120
+    2300012: SM_Prop_Backharness_01_113
+    2300014: SM_Prop_Backharness_02_110
+    2300016: SM_Prop_Backharness_03_68
+    2300018: SM_Prop_Bones_01_71
+    2300020: SM_Prop_Mushroom_01_101
+    2300022: SM_Prop_Mushroom_02_104
+    2300024: SM_Prop_Pouch_01_74
+    2300026: SM_Prop_Pouch_02_77
+    2300028: SM_Prop_Pouch_03_80
+    2300030: SM_Prop_Skull_01_83
+    2300032: SM_Prop_Tree_01_86
+    2300034: SM_Prop_Tree_02_89
+    2300036: SM_Prop_Troll_Helmet_01_92
+    2300038: SM_Runes_Inner_95
+    2300040: SM_Runes_Outer_98
+    2300042: SM_Wep_AncientQueen_01_23
+    2300044: SM_Wep_AncientWarrior_01_25
+    2300046: SM_Wep_BarbarianGiant_01_27
+    2300048: SM_Wep_BigOrk_01_29
+    2300050: SM_Wep_DarkElf_01_31
+    2300052: SM_Wep_Dwarf_01_33
+    2300054: SM_Wep_ElementalGolem_01_35
+    2300056: SM_Wep_EvilGod_01_37
+    2300058: SM_Wep_ForestGuardian_01_39
+    2300060: SM_Wep_ForestWitch_01_41
+    2300062: SM_Wep_FortGolem_01_43
+    2300064: SM_Wep_MechanicalGolem_01_45
+    2300066: SM_Wep_MechanicalGolem_02_47
+    2300068: SM_Wep_MechanicalGolem_02_Blade_01_49
+    2300070: SM_Wep_Medusa_01_51
+    2300072: SM_Wep_MutantGuy_01_53
+    2300074: SM_Wep_Mystic_01_55
+    2300076: SM_Wep_PigButcher_01_57
+    2300078: SM_Wep_RedDemon_01_59
+    2300080: SM_Wep_Slayer_01_61
+    2300082: SM_Wep_SpiritDemon_01_63
+    2300084: SM_Wep_Troll_01_65
+    2300086: Statue
+    2300088: UCX_SM_Base_Dirt_01_136
+    2300090: UCX_SM_Base_Dungeon_01_131
+    2300092: UCX_SM_Base_Grass_01_128
+    2300094: UCX_SM_Base_Mechanical_01_125
+    2300096: UCX_SM_Base_Rock_01_120
+    2300098: UCX_SM_Prop_Backharness_01_113
+    2300100: UCX_SM_Prop_Backharness_02_110
+    2300102: UCX_SM_Prop_Backharness_03_68
+    2300104: UCX_SM_Prop_Bones_01_71
+    2300106: UCX_SM_Prop_Mushroom_01_101
+    2300108: UCX_SM_Prop_Mushroom_02_104
+    2300110: UCX_SM_Prop_Pouch_01_74
+    2300112: UCX_SM_Prop_Pouch_02_77
+    2300114: UCX_SM_Prop_Pouch_03_80
+    2300116: UCX_SM_Prop_Skull_01_83
+    2300118: UCX_SM_Prop_Tree_01_86
+    2300120: UCX_SM_Prop_Tree_02_89
+    2300122: UCX_SM_Prop_Troll_Helmet_01_92
+    2300124: UCX_SM_Wep_AncientQueen_01_23
+    2300126: UCX_SM_Wep_AncientWarrior_01_25
+    2300128: UCX_SM_Wep_BarbarianGiant_01_27
+    2300130: UCX_SM_Wep_BigOrk_01_29
+    2300132: UCX_SM_Wep_DarkElf_01_31
+    2300134: UCX_SM_Wep_Dwarf_01_33
+    2300136: UCX_SM_Wep_ElementalGolem_01_35
+    2300138: UCX_SM_Wep_EvilGod_01_37
+    2300140: UCX_SM_Wep_ForestGuardian_01_39
+    2300142: UCX_SM_Wep_ForestWitch_01_41
+    2300144: UCX_SM_Wep_FortGolem_01_43
+    2300146: UCX_SM_Wep_MechanicalGolem_01_45
+    2300148: UCX_SM_Wep_MechanicalGolem_02_47
+    2300150: UCX_SM_Wep_MechanicalGolem_02_Blade_01_49
+    2300152: UCX_SM_Wep_Medusa_01_51
+    2300154: UCX_SM_Wep_MutantGuy_01_53
+    2300156: UCX_SM_Wep_Mystic_01_55
+    2300158: UCX_SM_Wep_PigButcher_01_57
+    2300160: UCX_SM_Wep_RedDemon_01_59
+    2300162: UCX_SM_Wep_Slayer_01_61
+    2300164: UCX_SM_Wep_SpiritDemon_01_63
+    2300166: UCX_SM_Wep_Troll_01_65
+    2300168: UCX_Statue
+    3300000: BP_Sky_Sphere_C_2
+    3300002: SM_Base_Dirt_01_136
+    3300004: SM_Base_Dungeon_01_131
+    3300006: SM_Base_Grass_01_128
+    3300008: SM_Base_Mechanical_01_125
+    3300010: SM_Base_Rock_01_120
+    3300012: SM_Prop_Backharness_01_113
+    3300014: SM_Prop_Backharness_02_110
+    3300016: SM_Prop_Backharness_03_68
+    3300018: SM_Prop_Bones_01_71
+    3300020: SM_Prop_Mushroom_01_101
+    3300022: SM_Prop_Mushroom_02_104
+    3300024: SM_Prop_Pouch_01_74
+    3300026: SM_Prop_Pouch_02_77
+    3300028: SM_Prop_Pouch_03_80
+    3300030: SM_Prop_Skull_01_83
+    3300032: SM_Prop_Tree_01_86
+    3300034: SM_Prop_Tree_02_89
+    3300036: SM_Prop_Troll_Helmet_01_92
+    3300038: SM_Runes_Inner_95
+    3300040: SM_Runes_Outer_98
+    3300042: SM_Wep_AncientQueen_01_23
+    3300044: SM_Wep_AncientWarrior_01_25
+    3300046: SM_Wep_BarbarianGiant_01_27
+    3300048: SM_Wep_BigOrk_01_29
+    3300050: SM_Wep_DarkElf_01_31
+    3300052: SM_Wep_Dwarf_01_33
+    3300054: SM_Wep_ElementalGolem_01_35
+    3300056: SM_Wep_EvilGod_01_37
+    3300058: SM_Wep_ForestGuardian_01_39
+    3300060: SM_Wep_ForestWitch_01_41
+    3300062: SM_Wep_FortGolem_01_43
+    3300064: SM_Wep_MechanicalGolem_01_45
+    3300066: SM_Wep_MechanicalGolem_02_47
+    3300068: SM_Wep_MechanicalGolem_02_Blade_01_49
+    3300070: SM_Wep_Medusa_01_51
+    3300072: SM_Wep_MutantGuy_01_53
+    3300074: SM_Wep_Mystic_01_55
+    3300076: SM_Wep_PigButcher_01_57
+    3300078: SM_Wep_RedDemon_01_59
+    3300080: SM_Wep_Slayer_01_61
+    3300082: SM_Wep_SpiritDemon_01_63
+    3300084: SM_Wep_Troll_01_65
+    3300086: Statue
+    3300088: UCX_SM_Base_Dirt_01_136
+    3300090: UCX_SM_Base_Dungeon_01_131
+    3300092: UCX_SM_Base_Grass_01_128
+    3300094: UCX_SM_Base_Mechanical_01_125
+    3300096: UCX_SM_Base_Rock_01_120
+    3300098: UCX_SM_Prop_Backharness_01_113
+    3300100: UCX_SM_Prop_Backharness_02_110
+    3300102: UCX_SM_Prop_Backharness_03_68
+    3300104: UCX_SM_Prop_Bones_01_71
+    3300106: UCX_SM_Prop_Mushroom_01_101
+    3300108: UCX_SM_Prop_Mushroom_02_104
+    3300110: UCX_SM_Prop_Pouch_01_74
+    3300112: UCX_SM_Prop_Pouch_02_77
+    3300114: UCX_SM_Prop_Pouch_03_80
+    3300116: UCX_SM_Prop_Skull_01_83
+    3300118: UCX_SM_Prop_Tree_01_86
+    3300120: UCX_SM_Prop_Tree_02_89
+    3300122: UCX_SM_Prop_Troll_Helmet_01_92
+    3300124: UCX_SM_Wep_AncientQueen_01_23
+    3300126: UCX_SM_Wep_AncientWarrior_01_25
+    3300128: UCX_SM_Wep_BarbarianGiant_01_27
+    3300130: UCX_SM_Wep_BigOrk_01_29
+    3300132: UCX_SM_Wep_DarkElf_01_31
+    3300134: UCX_SM_Wep_Dwarf_01_33
+    3300136: UCX_SM_Wep_ElementalGolem_01_35
+    3300138: UCX_SM_Wep_EvilGod_01_37
+    3300140: UCX_SM_Wep_ForestGuardian_01_39
+    3300142: UCX_SM_Wep_ForestWitch_01_41
+    3300144: UCX_SM_Wep_FortGolem_01_43
+    3300146: UCX_SM_Wep_MechanicalGolem_01_45
+    3300148: UCX_SM_Wep_MechanicalGolem_02_47
+    3300150: UCX_SM_Wep_MechanicalGolem_02_Blade_01_49
+    3300152: UCX_SM_Wep_Medusa_01_51
+    3300154: UCX_SM_Wep_MutantGuy_01_53
+    3300156: UCX_SM_Wep_Mystic_01_55
+    3300158: UCX_SM_Wep_PigButcher_01_57
+    3300160: UCX_SM_Wep_RedDemon_01_59
+    3300162: UCX_SM_Wep_Slayer_01_61
+    3300164: UCX_SM_Wep_SpiritDemon_01_63
+    3300166: UCX_SM_Wep_Troll_01_65
+    3300168: UCX_Statue
+    4300000: Statue
+    4300002: UCX_Statue
+    4300004: BP_Sky_Sphere_C_2
+    4300006: SkeletalMeshComponent0
+    4300008: SkeletalMeshComponent0
+    4300010: SkeletalMeshComponent0
+    4300012: SkeletalMeshComponent0
+    4300014: SkeletalMeshComponent0
+    4300016: SkeletalMeshComponent0
+    4300018: SkeletalMeshComponent0
+    4300020: SkeletalMeshComponent0
+    4300022: SkeletalMeshComponent0
+    4300024: SkeletalMeshComponent0
+    4300026: SkeletalMeshComponent0
+    4300028: SkeletalMeshComponent0
+    4300030: SkeletalMeshComponent0
+    4300032: SkeletalMeshComponent0
+    4300034: SkeletalMeshComponent0
+    4300036: SkeletalMeshComponent0
+    4300038: SkeletalMeshComponent0
+    4300040: SkeletalMeshComponent0
+    4300042: SkeletalMeshComponent0
+    4300044: SkeletalMeshComponent0
+    4300046: SkeletalMeshComponent0
+    4300048: SkeletalMeshComponent0
+    4300050: SkeletalMeshComponent0
+    4300052: SkeletalMeshComponent0
+    4300054: SM_Wep_AncientQueen_01_23
+    4300056: UCX_SM_Wep_AncientQueen_01_23
+    4300058: SM_Wep_AncientWarrior_01_25
+    4300060: UCX_SM_Wep_AncientWarrior_01_25
+    4300062: SM_Wep_BarbarianGiant_01_27
+    4300064: UCX_SM_Wep_BarbarianGiant_01_27
+    4300066: SM_Wep_BigOrk_01_29
+    4300068: UCX_SM_Wep_BigOrk_01_29
+    4300070: SM_Wep_DarkElf_01_31
+    4300072: UCX_SM_Wep_DarkElf_01_31
+    4300074: SM_Wep_Dwarf_01_33
+    4300076: UCX_SM_Wep_Dwarf_01_33
+    4300078: SM_Wep_ElementalGolem_01_35
+    4300080: UCX_SM_Wep_ElementalGolem_01_35
+    4300082: SM_Wep_EvilGod_01_37
+    4300084: UCX_SM_Wep_EvilGod_01_37
+    4300086: SM_Wep_ForestGuardian_01_39
+    4300088: UCX_SM_Wep_ForestGuardian_01_39
+    4300090: SM_Wep_ForestWitch_01_41
+    4300092: UCX_SM_Wep_ForestWitch_01_41
+    4300094: SM_Wep_FortGolem_01_43
+    4300096: UCX_SM_Wep_FortGolem_01_43
+    4300098: SM_Wep_MechanicalGolem_01_45
+    4300100: UCX_SM_Wep_MechanicalGolem_01_45
+    4300102: SM_Wep_MechanicalGolem_02_47
+    4300104: UCX_SM_Wep_MechanicalGolem_02_47
+    4300106: SM_Wep_MechanicalGolem_02_Blade_01_49
+    4300108: UCX_SM_Wep_MechanicalGolem_02_Blade_01_49
+    4300110: SM_Wep_Medusa_01_51
+    4300112: UCX_SM_Wep_Medusa_01_51
+    4300114: SM_Wep_MutantGuy_01_53
+    4300116: UCX_SM_Wep_MutantGuy_01_53
+    4300118: SM_Wep_Mystic_01_55
+    4300120: UCX_SM_Wep_Mystic_01_55
+    4300122: SM_Wep_PigButcher_01_57
+    4300124: UCX_SM_Wep_PigButcher_01_57
+    4300126: SM_Wep_RedDemon_01_59
+    4300128: UCX_SM_Wep_RedDemon_01_59
+    4300130: SM_Wep_Slayer_01_61
+    4300132: UCX_SM_Wep_Slayer_01_61
+    4300134: SM_Wep_SpiritDemon_01_63
+    4300136: UCX_SM_Wep_SpiritDemon_01_63
+    4300138: SM_Wep_Troll_01_65
+    4300140: UCX_SM_Wep_Troll_01_65
+    4300142: SM_Prop_Backharness_03_68
+    4300144: UCX_SM_Prop_Backharness_03_68
+    4300146: SM_Prop_Bones_01_71
+    4300148: UCX_SM_Prop_Bones_01_71
+    4300150: SM_Prop_Pouch_01_74
+    4300152: UCX_SM_Prop_Pouch_01_74
+    4300154: SM_Prop_Pouch_02_77
+    4300156: UCX_SM_Prop_Pouch_02_77
+    4300158: SM_Prop_Pouch_03_80
+    4300160: UCX_SM_Prop_Pouch_03_80
+    4300162: SM_Prop_Skull_01_83
+    4300164: UCX_SM_Prop_Skull_01_83
+    4300166: SM_Prop_Tree_01_86
+    4300168: UCX_SM_Prop_Tree_01_86
+    4300170: SM_Prop_Tree_02_89
+    4300172: UCX_SM_Prop_Tree_02_89
+    4300174: SM_Prop_Troll_Helmet_01_92
+    4300176: UCX_SM_Prop_Troll_Helmet_01_92
+    4300178: SM_Runes_Inner_95
+    4300180: SM_Runes_Outer_98
+    4300182: SM_Prop_Mushroom_01_101
+    4300184: UCX_SM_Prop_Mushroom_01_101
+    4300186: SM_Prop_Mushroom_02_104
+    4300188: UCX_SM_Prop_Mushroom_02_104
+    4300190: SM_Prop_Backharness_02_110
+    4300192: UCX_SM_Prop_Backharness_02_110
+    4300194: SM_Prop_Backharness_01_113
+    4300196: UCX_SM_Prop_Backharness_01_113
+    4300198: SM_Base_Rock_01_120
+    4300200: UCX_SM_Base_Rock_01_120
+    4300202: SM_Base_Mechanical_01_125
+    4300204: UCX_SM_Base_Mechanical_01_125
+    4300206: SM_Base_Grass_01_128
+    4300208: UCX_SM_Base_Grass_01_128
+    4300210: SM_Base_Dungeon_01_131
+    4300212: UCX_SM_Base_Dungeon_01_131
+    4300214: SM_Base_Dirt_01_136
+    4300216: UCX_SM_Base_Dirt_01_136
+    9500000: //RootNode
+    10800000: LightSource
+    13700000: SkeletalMeshComponent0
+    13700002: SkeletalMeshComponent0 1
+    13700004: SkeletalMeshComponent0 10
+    13700006: SkeletalMeshComponent0 11
+    13700008: SkeletalMeshComponent0 12
+    13700010: SkeletalMeshComponent0 13
+    13700012: SkeletalMeshComponent0 14
+    13700014: SkeletalMeshComponent0 15
+    13700016: SkeletalMeshComponent0 16
+    13700018: SkeletalMeshComponent0 17
+    13700020: SkeletalMeshComponent0 18
+    13700022: SkeletalMeshComponent0 19
+    13700024: SkeletalMeshComponent0 2
+    13700026: SkeletalMeshComponent0 20
+    13700028: SkeletalMeshComponent0 21
+    13700030: SkeletalMeshComponent0 22
+    13700032: SkeletalMeshComponent0 23
+    13700034: SkeletalMeshComponent0 3
+    13700036: SkeletalMeshComponent0 4
+    13700038: SkeletalMeshComponent0 5
+    13700040: SkeletalMeshComponent0 6
+    13700042: SkeletalMeshComponent0 7
+    13700044: SkeletalMeshComponent0 8
+    13700046: SkeletalMeshComponent0 9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
